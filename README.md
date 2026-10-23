@@ -6,6 +6,12 @@ This edition uses **VADER** (a lexicon- and rule-based sentiment tool). It needs
 
 Stack: Python · Streamlit · VADER (`vaderSentiment`) · Pandas · Plotly
 
+## Screenshots
+
+![Single review analysis](screenshots/single-review.png)
+![Dashboard](screenshots/dashboard.png)
+![Results table](screenshots/results-table.png)
+
 ## Project structure
 ```
 sentiment-analysis-app-lite/
