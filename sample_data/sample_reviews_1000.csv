@@ -1,0 +1,1001 @@
+﻿review_id,date,product,rating,review_text
+1,2026-10-07,Laptop,1,"Awful quality, the laptop feels cheap and flimsy. The battery drains far too fast."
+2,2026-04-12,Keyboard,5,I absolutely love this keyboard. Delivery was fast and the packaging was great.
+3,2026-01-04,Air Fryer,1,Really bad experience with this air fryer. Not worth the price at all.
+4,2026-07-14,Headphones,3,I bought the headphones from a local store. The box was sealed when it arrived.
+5,2026-03-05,Bluetooth Speaker,5,"Fantastic quality, this bluetooth speaker exceeded my expectations. Everything works smoothly and the design is lovely."
+6,2026-07-05,Keyboard,3,I ordered the keyboard online last week.
+7,2026-02-21,Air Fryer,2,Very disappointed with this air fryer. Delivery was late and the box was damaged.
+8,2026-02-06,Monitor,5,"Fantastic quality, this monitor exceeded my expectations. It looks beautiful and feels solid."
+9,2026-04-23,Headphones,1,Really bad experience with this headphones. The battery drains far too fast.
+10,2026-04-19,Bluetooth Speaker,2,The bluetooth speaker is terrible. The battery drains far too fast.
+11,2026-05-16,Running Shoes,3,The running shoes is available in green and in two sizes. The warranty lasts one year.
+12,2026-07-24,Air Fryer,5,Really impressed with this air fryer. I would happily buy it again.
+13,2026-03-23,Headphones,5,Really impressed with this headphones. Highly satisfied with the quality.
+14,2026-01-06,Keyboard,3,The keyboard is grey and has a standard warranty. The manual has twenty pages.
+15,2026-03-22,Smartphone,2,Really bad experience with this smartphone. Setup was confusing and frustrating.
+16,2026-06-02,Air Fryer,2,"Awful quality, the air fryer feels cheap and flimsy. I would never buy it again."
+17,2026-09-29,Water Bottle,3,The water bottle is red and has a standard warranty. The warranty lasts one year.
+18,2026-05-04,Running Shoes,3,The running shoes is available in blue and in two sizes. The receipt was included in the package.
+19,2026-09-01,Smartphone,4,I ordered the smartphone online last week. The receipt was included in the package.
+20,2026-04-13,Headphones,2,I received the headphones today.
+21,2026-02-02,Keyboard,2,"I hate this keyboard, complete waste of money. It is noisy and slow, really annoying."
+22,2026-01-31,Running Shoes,5,Really impressed with this running shoes. I use it every day and it never disappoints.
+23,2026-04-20,Office Chair,5,I absolutely love this office chair. My family loves it too.
+24,2026-02-19,Air Fryer,1,"The air fryer broke on the first day, so annoying. Terrible instructions and horrible build quality."
+25,2026-02-20,Backpack,1,The backpack is a total disaster. Not worth the price at all.
+26,2026-08-05,Air Fryer,5,"Fantastic quality, this air fryer exceeded my expectations. Customer support was friendly and very helpful."
+27,2026-10-04,Monitor,5,"Excellent monitor, worth every penny. Customer support was friendly and very helpful."
+28,2026-01-31,Smartphone,3,The package contains the smartphone and a charging cable. The package was left at the front door.
+29,2026-09-07,Laptop,4,The laptop is wonderful and easy to use. Setup was quick and simple.
+30,2026-01-30,Blender,5,"Excellent blender, worth every penny. Delivery was fast and the packaging was great."
+31,2026-02-05,Monitor,5,Really impressed with this monitor. I would happily buy it again.
+32,2026-01-21,Smart Watch,1,This smart watch stopped working after two days. Not worth the price at all.
+33,2026-06-10,Keyboard,1,"The keyboard broke on the first day, so annoying. Terrible instructions and horrible build quality."
+34,2026-02-07,Keyboard,5,"Great keyboard, highly recommended."
+35,2026-06-28,Running Shoes,5,"Perfect running shoes for the price, I am delighted. Customer support was friendly and very helpful."
+36,2026-09-28,Office Chair,3,The package contains the office chair and a charging cable. The box was sealed when it arrived.
+37,2026-02-24,Bluetooth Speaker,4,Really impressed with this bluetooth speaker. Setup was quick and simple.
+38,2026-05-16,Headphones,2,"Awful quality, the headphones feels cheap and flimsy. Setup was confusing and frustrating."
+39,2026-03-08,Blender,2,
+40,2026-02-08,Blender,2,
+41,2026-08-09,Air Fryer,3,The air fryer comes in a red box with a user manual.
+42,2026-02-22,Blender,4,"Fantastic quality, this blender exceeded my expectations. Delivery was fast and the packaging was great."
+43,2026-04-01,Water Bottle,4,The water bottle is wonderful and easy to use. Everything works smoothly and the design is lovely.
+44,2026-05-08,Laptop,4,The laptop comes in a green box with a user manual. The box was sealed when it arrived.
+45,2026-08-24,Desk Lamp,4,"This desk lamp is amazing! The battery lasts all day, which is brilliant."
+46,2026-02-05,Bluetooth Speaker,5,"Excellent bluetooth speaker, worth every penny. I use it every day and it never disappoints."
+47,2026-03-01,Blender,3,The blender is available in blue and in two sizes.
+48,2026-06-10,Blender,3,The blender comes in a grey box with a user manual. It was shipped from the central warehouse.
+49,2026-08-12,Water Bottle,2,Very disappointed with this water bottle. Not worth the price at all.
+50,2026-07-06,Office Chair,4,Really impressed with this office chair.
+51,2026-09-17,Smart Watch,1,"I hate this smart watch, complete waste of money. Terrible instructions and horrible build quality."
+52,2026-07-14,Keyboard,4,"Fantastic quality, this keyboard exceeded my expectations. The battery lasts all day, which is brilliant."
+53,2026-06-05,Office Chair,2,Worst office chair I have ever bought. Terrible instructions and horrible build quality.
+54,2026-04-20,Keyboard,4,"Perfect keyboard for the price, I am delighted. Everything works smoothly and the design is lovely."
+55,2026-06-21,Desk Lamp,1,Worst desk lamp I have ever bought.
+56,2026-05-06,Desk Lamp,5,"Excellent desk lamp, worth every penny."
+57,2026-07-16,Running Shoes,3,I ordered the running shoes online last week. The receipt was included in the package.
+58,2026-09-23,Coffee Maker,2,Worst coffee maker I have ever bought.
+59,2026-06-12,Water Bottle,1,This water bottle stopped working after two days. Customer support was rude and unhelpful.
+60,2026-09-01,Office Chair,3,The office chair was delivered by courier on Friday.
+61,2026-05-21,Desk Lamp,1,This desk lamp stopped working after two days.
+62,2026-03-19,Air Fryer,1,"Awful quality, the air fryer feels cheap and flimsy. The battery drains far too fast."
+63,2026-08-01,Air Fryer,5,"Great air fryer, highly recommended. I use it every day and it never disappoints."
+64,2026-07-14,Bluetooth Speaker,4,"The bluetooth speaker is wonderful and easy to use. The battery lasts all day, which is brilliant."
+65,2026-10-07,Backpack,2,"Awful quality, the backpack feels cheap and flimsy. Not worth the price at all."
+66,2026-06-22,Office Chair,3,The package contains the office chair and a charging cable. The receipt was included in the package.
+67,2026-07-21,Desk Lamp,2,The desk lamp is a total disaster. It looks cheap and feels fragile.
+68,2026-05-14,Smart Watch,2,The smart watch is terrible. Customer support was rude and unhelpful.
+69,2026-08-04,Coffee Maker,5,Best coffee maker I have ever bought! My family loves it too.
+70,2026-02-05,Smartphone,4,Best smartphone I have ever bought! Delivery was fast and the packaging was great.
+71,2026-05-03,Smart Watch,2,The smart watch arrived on Tuesday. The delivery took five days.
+72,2026-07-08,Smart Watch,4,This smart watch is amazing! Everything works smoothly and the design is lovely.
+73,2026-06-09,Running Shoes,3,This running shoes is amazing! It looks beautiful and feels solid.
+74,2026-05-05,Office Chair,3,The office chair is a total disaster. Not worth the price at all.
+75,2026-06-27,Desk Lamp,5,I am so happy with my new desk lamp.
+76,2026-09-08,Smart Watch,1,"I hate this smart watch, complete waste of money. Customer support was rude and unhelpful."
+77,2026-05-19,Backpack,5,Best backpack I have ever bought! It looks beautiful and feels solid.
+78,2026-05-06,Office Chair,1,"Really bad experience with this office chair. It is noisy and slow, really annoying."
+79,2026-07-14,Smartphone,3,I received the smartphone today. The receipt was included in the package.
+80,2026-05-22,Monitor,5,"Fantastic quality, this monitor exceeded my expectations. It looks beautiful and feels solid."
+81,2026-05-04,Water Bottle,1,This water bottle stopped working after two days. Customer support was rude and unhelpful.
+82,2026-05-05,Smart Watch,2,"Poor smart watch, I regret buying it. It is noisy and slow, really annoying."
+83,2026-06-19,Running Shoes,5,"Fantastic quality, this running shoes exceeded my expectations. Highly satisfied with the quality."
+84,2026-03-03,Monitor,5,I am so happy with my new monitor. Setup was quick and simple.
+85,2026-09-26,Desk Lamp,1,Worst desk lamp I have ever bought. The battery drains far too fast.
+86,2026-10-01,Smartphone,1,   
+87,2026-09-09,Laptop,5,I absolutely love this laptop. I would happily buy it again.
+88,2026-01-27,Laptop,5,"Perfect laptop for the price, I am delighted. Setup was quick and simple."
+89,2026-01-28,Bluetooth Speaker,4,Best bluetooth speaker I have ever bought! Customer support was friendly and very helpful.
+90,2026-08-02,Desk Lamp,5,"Perfect desk lamp for the price, I am delighted. Setup was quick and simple."
+91,2026-06-02,Desk Lamp,2,"The desk lamp broke on the first day, so annoying. The battery drains far too fast."
+92,2026-04-17,Keyboard,3,I received the keyboard today. The delivery took five days.
+93,2026-07-29,Blender,1,Very disappointed with this blender. It looks cheap and feels fragile.
+94,2026-08-21,Running Shoes,1,"Poor running shoes, I regret buying it. Setup was confusing and frustrating."
+95,2026-04-26,Coffee Maker,5,I am so happy with my new coffee maker.
+96,2026-05-28,Office Chair,1,"Awful quality, the office chair feels cheap and flimsy. It looks cheap and feels fragile."
+97,2026-02-11,Monitor,3,"Awful quality, the monitor feels cheap and flimsy. Not worth the price at all."
+98,2026-01-11,Office Chair,2,The office chair is a total disaster. I asked for a refund but nobody replied.
+99,2026-08-15,Smart Watch,4,I received the smart watch today. The delivery took five days.
+100,2026-07-29,Headphones,3,The headphones is black and has a standard warranty. I have not used it yet.
+101,2026-07-25,Smart Watch,5,This smart watch is amazing! It looks beautiful and feels solid.
+102,2026-07-26,Water Bottle,3,The water bottle arrived on Wednesday. The receipt was included in the package.
+103,2026-09-13,Bluetooth Speaker,3,The bluetooth speaker arrived on Monday.
+104,2026-09-06,Desk Lamp,1,The desk lamp is terrible. The battery drains far too fast.
+105,2026-07-28,Smart Watch,4,   
+106,2026-05-30,Bluetooth Speaker,4,This bluetooth speaker is amazing! Highly satisfied with the quality.
+107,2026-07-16,Blender,3,"The blender is a total disaster. It is noisy and slow, really annoying."
+108,2026-09-17,Running Shoes,4,Really impressed with this running shoes. It looks beautiful and feels solid.
+109,2026-03-18,Laptop,4,I am so happy with my new laptop. Setup was quick and simple.
+110,2026-06-14,Monitor,2,"I hate this monitor, complete waste of money. I asked for a refund but nobody replied."
+111,2026-08-31,Air Fryer,3,The package contains the air fryer and a charging cable. I have not used it yet.
+112,2026-01-19,Desk Lamp,3,The desk lamp is a total disaster. Not worth the price at all.
+113,2026-08-22,Running Shoes,4,"Fantastic quality, this running shoes exceeded my expectations. Customer support was friendly and very helpful."
+114,2026-05-16,Headphones,3,The headphones is wonderful and easy to use.
+115,2026-07-14,Air Fryer,5,The air fryer is wonderful and easy to use.
+116,2026-05-28,Smart Watch,3,The smart watch was delivered by courier on Monday.
+117,2026-08-16,Air Fryer,2,I ordered the air fryer online last week. I have not used it yet.
+118,2026-08-09,Blender,5,I absolutely love this blender. Delivery was fast and the packaging was great.
+119,2026-07-15,Water Bottle,4,The water bottle is wonderful and easy to use. Everything works smoothly and the design is lovely.
+120,2026-05-11,Coffee Maker,1,"Poor coffee maker, I regret buying it. Terrible instructions and horrible build quality."
+121,2026-06-26,Office Chair,2,"Poor office chair, I regret buying it. Setup was confusing and frustrating."
+122,2026-09-05,Blender,3,I bought the blender from a local store. It was shipped from the central warehouse.
+123,2026-07-22,Keyboard,5,"Perfect keyboard for the price, I am delighted. My family loves it too."
+124,2026-06-30,Running Shoes,4,I absolutely love this running shoes. Everything works smoothly and the design is lovely.
+125,2026-03-12,Coffee Maker,4,"Perfect coffee maker for the price, I am delighted. Setup was quick and simple."
+126,2026-03-09,Office Chair,2,The office chair is terrible. Setup was confusing and frustrating.
+127,2026-07-07,Blender,5,"Fantastic quality, this blender exceeded my expectations. The battery lasts all day, which is brilliant."
+128,2026-06-23,Office Chair,1,"Awful quality, the office chair feels cheap and flimsy. It looks cheap and feels fragile."
+129,2026-07-23,Monitor,4,I ordered the monitor online last week. The package was left at the front door.
+130,2026-03-05,Desk Lamp,3,The box says the desk lamp weighs two kilograms. The box was sealed when it arrived.
+131,2026-04-30,Smart Watch,1,"Awful quality, the smart watch feels cheap and flimsy. Terrible instructions and horrible build quality."
+132,2026-08-26,Running Shoes,3,Really bad experience with this running shoes. I asked for a refund but nobody replied.
+133,2026-03-01,Blender,3,I bought the blender from a local store. The manual has twenty pages.
+134,2026-10-04,Office Chair,5,Really impressed with this office chair. It looks beautiful and feels solid.
+135,2026-05-24,Air Fryer,4,"Great air fryer, highly recommended. The battery lasts all day, which is brilliant."
+136,2026-07-08,Backpack,5,"Excellent backpack, worth every penny. Highly satisfied with the quality."
+137,2026-08-21,Smart Watch,1,"I hate this smart watch, complete waste of money. Delivery was late and the box was damaged."
+138,2026-04-16,Coffee Maker,5,"Perfect coffee maker for the price, I am delighted. Delivery was fast and the packaging was great."
+139,2026-01-02,Desk Lamp,5,Really impressed with this desk lamp. I use it every day and it never disappoints.
+140,2026-01-14,Headphones,5,"Great headphones, highly recommended. I would happily buy it again."
+141,2026-08-04,Backpack,5,"Excellent backpack, worth every penny. Everything works smoothly and the design is lovely."
+142,2026-08-20,Air Fryer,1,"Very disappointed with this air fryer. It is noisy and slow, really annoying."
+143,2026-02-01,Running Shoes,1,The running shoes is terrible.
+144,2026-02-07,Bluetooth Speaker,3,I bought the bluetooth speaker from a local store. I have not used it yet.
+145,2026-10-08,Backpack,3,The backpack is red and has a standard warranty. The package was left at the front door.
+146,2026-02-28,Keyboard,1,"The keyboard broke on the first day, so annoying. I would never buy it again."
+147,2026-08-21,Smart Watch,3,The box says the smart watch weighs two kilograms. The warranty lasts one year.
+148,2026-03-20,Air Fryer,5,This air fryer is amazing! My family loves it too.
+149,2026-07-10,Monitor,2,Very disappointed with this monitor. Customer support was rude and unhelpful.
+150,2026-08-05,Water Bottle,3,The water bottle arrived on Saturday.
+151,2026-04-19,Air Fryer,3,The air fryer arrived on Wednesday. It was shipped from the central warehouse.
+152,2026-05-23,Monitor,5,"Excellent monitor, worth every penny. Customer support was friendly and very helpful."
+153,2026-01-14,Desk Lamp,3,The desk lamp is a total disaster. I would never buy it again.
+154,2026-06-29,Smart Watch,1,"Awful quality, the smart watch feels cheap and flimsy. Delivery was late and the box was damaged."
+155,2026-01-16,Bluetooth Speaker,4,"Great bluetooth speaker, highly recommended. Everything works smoothly and the design is lovely."
+156,2026-06-16,Water Bottle,5,"Excellent water bottle, worth every penny. The battery lasts all day, which is brilliant."
+157,2026-01-26,Running Shoes,2,The running shoes is white and has a standard warranty. The manual has twenty pages.
+158,2026-04-21,Blender,1,"Poor blender, I regret buying it."
+159,2026-09-27,Smartphone,3,The smartphone is available in green and in two sizes. I have not used it yet.
+160,2026-04-19,Laptop,3,This laptop stopped working after two days. Not worth the price at all.
+161,2026-03-31,Desk Lamp,3,I received the desk lamp today. It was shipped from the central warehouse.
+162,2026-01-22,Water Bottle,5,"Excellent water bottle, worth every penny. I would happily buy it again."
+163,2026-08-02,Monitor,2,Very disappointed with this monitor. I asked for a refund but nobody replied.
+164,2026-07-05,Keyboard,5,I absolutely love this keyboard. My family loves it too.
+165,2026-06-08,Bluetooth Speaker,5,This bluetooth speaker is amazing! I use it every day and it never disappoints.
+166,2026-04-10,Coffee Maker,1,"I hate this coffee maker, complete waste of money. It looks cheap and feels fragile."
+167,2026-03-20,Backpack,3,The backpack is available in blue and in two sizes. The package was left at the front door.
+168,2026-08-18,Smart Watch,2,I ordered the smart watch online last week. The package was left at the front door.
+169,2026-06-11,Office Chair,2,"The office chair broke on the first day, so annoying."
+170,2026-09-17,Smartphone,5,Best smartphone I have ever bought! Highly satisfied with the quality.
+171,2026-02-16,Monitor,5,Best monitor I have ever bought! Delivery was fast and the packaging was great.
+172,2026-04-07,Water Bottle,2,"The water bottle is a total disaster. It is noisy and slow, really annoying."
+173,2026-06-25,Monitor,3,Really impressed with this monitor. It looks beautiful and feels solid.
+174,2026-09-26,Smartphone,3,The box says the smartphone weighs two kilograms. The package was left at the front door.
+175,2026-01-27,Headphones,3,"I hate this headphones, complete waste of money. I asked for a refund but nobody replied."
+176,2026-05-10,Smart Watch,3,The smart watch is available in green and in two sizes. The manual has twenty pages.
+177,2026-06-29,Smart Watch,1,"The smart watch broke on the first day, so annoying. It looks cheap and feels fragile."
+178,2026-06-18,Smart Watch,5,The smart watch is wonderful and easy to use. It looks beautiful and feels solid.
+179,2026-07-05,Smart Watch,3,The box says the smart watch weighs two kilograms. The manual has twenty pages.
+180,2026-02-21,Coffee Maker,5,"Fantastic quality, this coffee maker exceeded my expectations. Highly satisfied with the quality."
+181,2026-03-20,Water Bottle,2,Really bad experience with this water bottle. Delivery was late and the box was damaged.
+182,2026-05-02,Bluetooth Speaker,4,"Perfect bluetooth speaker for the price, I am delighted. It looks beautiful and feels solid."
+183,2026-08-29,Running Shoes,3,I received the running shoes today. The receipt was included in the package.
+184,2026-08-03,Coffee Maker,3,The coffee maker is available in grey and in two sizes. The receipt was included in the package.
+185,2026-07-10,Bluetooth Speaker,2,The package contains the bluetooth speaker and a charging cable. The package was left at the front door.
+186,2026-09-20,Smartphone,1,Really bad experience with this smartphone. Customer support was rude and unhelpful.
+187,2026-07-22,Keyboard,4,This keyboard is amazing! I use it every day and it never disappoints.
+188,2026-06-21,Coffee Maker,1,The coffee maker is a total disaster. Customer support was rude and unhelpful.
+189,2026-08-29,Headphones,2,The headphones arrived on Thursday. It was shipped from the central warehouse.
+190,2026-09-28,Laptop,1,Very disappointed with this laptop. Delivery was late and the box was damaged.
+191,2026-08-23,Desk Lamp,1,"Awful quality, the desk lamp feels cheap and flimsy. The battery drains far too fast."
+192,2026-03-15,Bluetooth Speaker,5,Best bluetooth speaker I have ever bought! Everything works smoothly and the design is lovely.
+193,2026-02-13,Laptop,5,"Perfect laptop for the price, I am delighted. My family loves it too."
+194,2026-08-29,Backpack,1,Very disappointed with this backpack. I would never buy it again.
+195,2026-02-23,Keyboard,4,"Fantastic quality, this keyboard exceeded my expectations. Setup was quick and simple."
+196,2026-03-31,Air Fryer,3,The air fryer is available in blue and in two sizes. The package was left at the front door.
+197,2026-08-23,Smart Watch,3,The smart watch was delivered by courier on Tuesday. The receipt was included in the package.
+198,2026-10-06,Coffee Maker,4,I absolutely love this coffee maker. I use it every day and it never disappoints.
+199,2026-03-05,Laptop,1,This laptop stopped working after two days. Setup was confusing and frustrating.
+200,2026-09-12,Keyboard,2,I bought the keyboard from a local store. The receipt was included in the package.
+201,2026-04-03,Backpack,2,Really bad experience with this backpack. Setup was confusing and frustrating.
+202,2026-08-07,Backpack,1,Very disappointed with this backpack. Customer support was rude and unhelpful.
+203,2026-05-21,Monitor,5,"Fantastic quality, this monitor exceeded my expectations. Highly satisfied with the quality."
+204,2026-03-23,Desk Lamp,2,The desk lamp is terrible. Customer support was rude and unhelpful.
+205,2026-07-07,Headphones,3,The headphones is white and has a standard warranty. The receipt was included in the package.
+206,2026-02-09,Running Shoes,5,I absolutely love this running shoes. Everything works smoothly and the design is lovely.
+207,2026-01-14,Water Bottle,1,"I hate this water bottle, complete waste of money. Not worth the price at all."
+208,2026-08-17,Monitor,3,Really bad experience with this monitor. Not worth the price at all.
+209,2026-08-16,Running Shoes,5,I am so happy with my new running shoes. Highly satisfied with the quality.
+210,2026-06-03,Desk Lamp,4,The desk lamp is available in red and in two sizes. The box was sealed when it arrived.
+211,2026-05-02,Air Fryer,3,The air fryer comes in a white box with a user manual. The box was sealed when it arrived.
+212,2026-02-14,Laptop,3,The laptop is available in red and in two sizes.
+213,2026-06-12,Keyboard,5,Best keyboard I have ever bought! I would happily buy it again.
+214,2026-04-04,Monitor,1,"Poor monitor, I regret buying it."
+215,2026-06-05,Headphones,2,I bought the headphones from a local store.
+216,2026-05-09,Backpack,4,"Excellent backpack, worth every penny. My family loves it too."
+217,2026-03-28,Water Bottle,5,I am so happy with my new water bottle. It looks beautiful and feels solid.
+218,2026-01-22,Running Shoes,2,Worst running shoes I have ever bought. It looks cheap and feels fragile.
+219,2026-08-02,Laptop,2,I ordered the laptop online last week. The delivery took five days.
+220,2026-07-27,Laptop,1,"Poor laptop, I regret buying it."
+221,2026-03-15,Smartphone,5,I absolutely love this smartphone. It looks beautiful and feels solid.
+222,2026-02-24,Air Fryer,3,"Fantastic quality, this air fryer exceeded my expectations. My family loves it too."
+223,2026-07-16,Monitor,5,This monitor is amazing! Setup was quick and simple.
+224,2026-03-23,Keyboard,4,The package contains the keyboard and a charging cable. The package was left at the front door.
+225,2026-07-21,Water Bottle,2,"Poor water bottle, I regret buying it. It is noisy and slow, really annoying."
+226,2026-08-29,Coffee Maker,1,This coffee maker stopped working after two days. Terrible instructions and horrible build quality.
+227,2026-07-26,Laptop,5,"This laptop is amazing! The battery lasts all day, which is brilliant."
+228,2026-07-17,Keyboard,5,I absolutely love this keyboard. Everything works smoothly and the design is lovely.
+229,2026-03-07,Desk Lamp,2,Really bad experience with this desk lamp. Setup was confusing and frustrating.
+230,2026-09-18,Keyboard,3,The keyboard is available in white and in two sizes. The box was sealed when it arrived.
+231,2026-03-18,Laptop,5,I absolutely love this laptop. Delivery was fast and the packaging was great.
+232,2026-06-03,Water Bottle,3,Worst water bottle I have ever bought. I asked for a refund but nobody replied.
+233,2026-01-09,Water Bottle,1,Really bad experience with this water bottle. I would never buy it again.
+234,2026-08-31,Smart Watch,5,"This smart watch is amazing! The battery lasts all day, which is brilliant."
+235,2026-09-26,Smart Watch,5,"Perfect smart watch for the price, I am delighted. Everything works smoothly and the design is lovely."
+236,2026-02-26,Running Shoes,2,The running shoes is a total disaster. It looks cheap and feels fragile.
+237,2026-08-30,Monitor,5,"Fantastic quality, this monitor exceeded my expectations. The battery lasts all day, which is brilliant."
+238,2026-09-02,Air Fryer,3,The air fryer arrived on Friday. The package was left at the front door.
+239,2026-05-16,Backpack,3,"Worst backpack I have ever bought. It is noisy and slow, really annoying."
+240,2026-04-17,Coffee Maker,2,This coffee maker stopped working after two days. Setup was confusing and frustrating.
+241,2026-10-06,Monitor,1,"I hate this monitor, complete waste of money. It is noisy and slow, really annoying."
+242,2026-08-15,Keyboard,5,"Fantastic quality, this keyboard exceeded my expectations. It looks beautiful and feels solid."
+243,2026-05-20,Air Fryer,1,"Poor air fryer, I regret buying it. The battery drains far too fast."
+244,2026-04-30,Running Shoes,5,"Perfect running shoes for the price, I am delighted. I use it every day and it never disappoints."
+245,2026-03-22,Keyboard,5,"Fantastic quality, this keyboard exceeded my expectations. Highly satisfied with the quality."
+246,2026-01-31,Office Chair,4,Best office chair I have ever bought! Highly satisfied with the quality.
+247,2026-03-31,Smartphone,3,The smartphone is black and has a standard warranty. The warranty lasts one year.
+248,2026-05-29,Bluetooth Speaker,3,"Great bluetooth speaker, highly recommended. Delivery was fast and the packaging was great."
+249,2026-10-06,Laptop,2,I received the laptop today. The manual has twenty pages.
+250,2026-08-23,Office Chair,1,Worst office chair I have ever bought. I would never buy it again.
+251,2026-04-09,Air Fryer,2,Worst air fryer I have ever bought. Delivery was late and the box was damaged.
+252,2026-04-05,Bluetooth Speaker,5,"The bluetooth speaker is wonderful and easy to use. The battery lasts all day, which is brilliant."
+253,2026-05-17,Monitor,3,The monitor is available in white and in two sizes. The warranty lasts one year.
+254,2026-03-02,Blender,3,The blender is green and has a standard warranty. The delivery took five days.
+255,2026-06-01,Headphones,1,The headphones is a total disaster.
+256,2026-07-11,Coffee Maker,5,"Excellent coffee maker, worth every penny. It looks beautiful and feels solid."
+257,2026-02-11,Water Bottle,4,Best water bottle I have ever bought! I would happily buy it again.
+258,2026-09-16,Water Bottle,3,"I hate this water bottle, complete waste of money. Customer support was rude and unhelpful."
+259,2026-04-16,Water Bottle,5,"Great water bottle, highly recommended. It looks beautiful and feels solid."
+260,2026-08-01,Monitor,1,Very disappointed with this monitor. I would never buy it again.
+261,2026-05-11,Laptop,2,"Really bad experience with this laptop. It is noisy and slow, really annoying."
+262,2026-01-31,Air Fryer,3,The package contains the air fryer and a charging cable. The manual has twenty pages.
+263,2026-08-04,Smartphone,3,The smartphone was delivered by courier on Tuesday. The delivery took five days.
+264,2026-10-04,Office Chair,4,The office chair is wonderful and easy to use. Highly satisfied with the quality.
+265,2026-04-25,Bluetooth Speaker,5,"Fantastic quality, this bluetooth speaker exceeded my expectations. Customer support was friendly and very helpful."
+266,2026-07-14,Desk Lamp,3,The desk lamp arrived on Saturday. It was shipped from the central warehouse.
+267,2026-01-17,Coffee Maker,3,The coffee maker was delivered by courier on Tuesday. The box was sealed when it arrived.
+268,2026-08-17,Keyboard,3,The keyboard is black and has a standard warranty. The delivery took five days.
+269,2026-04-22,Air Fryer,2,The air fryer is terrible. The battery drains far too fast.
+270,2026-06-13,Desk Lamp,3,The desk lamp arrived on Wednesday. The package was left at the front door.
+271,2026-07-31,Desk Lamp,1,"I hate this desk lamp, complete waste of money. The battery drains far too fast."
+272,2026-09-11,Laptop,4,Really impressed with this laptop. Everything works smoothly and the design is lovely.
+273,2026-07-12,Backpack,5,The backpack is wonderful and easy to use. I would happily buy it again.
+274,2026-08-26,Water Bottle,4,Best water bottle I have ever bought! I use it every day and it never disappoints.
+275,2026-04-15,Water Bottle,3,I bought the water bottle from a local store. I have not used it yet.
+276,2026-07-13,Smartphone,5,Best smartphone I have ever bought! My family loves it too.
+277,2026-04-22,Running Shoes,1,The running shoes is terrible. Customer support was rude and unhelpful.
+278,2026-03-02,Bluetooth Speaker,3,"I hate this bluetooth speaker, complete waste of money. Setup was confusing and frustrating."
+279,2026-05-03,Desk Lamp,2,"Poor desk lamp, I regret buying it. The battery drains far too fast."
+280,2026-07-04,Desk Lamp,1,"Awful quality, the desk lamp feels cheap and flimsy. Not worth the price at all."
+281,2026-06-13,Monitor,2,"Poor monitor, I regret buying it. Customer support was rude and unhelpful."
+282,2026-05-14,Backpack,3,The backpack is available in green and in two sizes. I have not used it yet.
+283,2026-05-06,Running Shoes,1,"The running shoes broke on the first day, so annoying. Not worth the price at all."
+284,2026-09-09,Smart Watch,2,"I hate this smart watch, complete waste of money. Setup was confusing and frustrating."
+285,2026-10-05,Air Fryer,1,"I hate this air fryer, complete waste of money. It looks cheap and feels fragile."
+286,2026-01-04,Laptop,4,The box says the laptop weighs two kilograms. The delivery took five days.
+287,2026-07-11,Bluetooth Speaker,4,"Excellent bluetooth speaker, worth every penny. Customer support was friendly and very helpful."
+288,2026-07-30,Smart Watch,4,"Perfect smart watch for the price, I am delighted. Highly satisfied with the quality."
+289,2026-08-09,Water Bottle,3,I am so happy with my new water bottle. I would happily buy it again.
+290,2026-09-27,Office Chair,2,The office chair comes in a white box with a user manual. The manual has twenty pages.
+291,2026-04-26,Backpack,5,"I am so happy with my new backpack. The battery lasts all day, which is brilliant."
+292,2026-07-14,Bluetooth Speaker,3,This bluetooth speaker is amazing!
+293,2026-08-11,Monitor,5,I absolutely love this monitor.
+294,2026-09-01,Backpack,2,"The backpack broke on the first day, so annoying. Customer support was rude and unhelpful."
+295,2026-04-02,Office Chair,4,This office chair is amazing!
+296,2026-06-03,Backpack,3,The backpack arrived on Saturday. The warranty lasts one year.
+297,2026-03-13,Coffee Maker,4,"Perfect coffee maker for the price, I am delighted. The battery lasts all day, which is brilliant."
+298,2026-04-29,Air Fryer,4,I ordered the air fryer online last week.
+299,2026-08-19,Backpack,2,The backpack is black and has a standard warranty. I have not used it yet.
+300,2026-02-13,Backpack,1,Really bad experience with this backpack. Not worth the price at all.
+301,2026-03-20,Blender,3,The package contains the blender and a charging cable. The manual has twenty pages.
+302,2026-05-19,Backpack,1,"I hate this backpack, complete waste of money. Customer support was rude and unhelpful."
+303,2026-01-14,Smartphone,5,"Great smartphone, highly recommended. The battery lasts all day, which is brilliant."
+304,2026-07-31,Water Bottle,5,   
+305,2026-03-13,Smartphone,5,Really impressed with this smartphone. I use it every day and it never disappoints.
+306,2026-09-05,Blender,5,Best blender I have ever bought! It looks beautiful and feels solid.
+307,2026-08-23,Backpack,4,I received the backpack today. The warranty lasts one year.
+308,2026-06-18,Blender,5,"I absolutely love this blender. The battery lasts all day, which is brilliant."
+309,2026-06-10,Keyboard,1,"The keyboard broke on the first day, so annoying. It looks cheap and feels fragile."
+310,2026-05-05,Keyboard,4,"Fantastic quality, this keyboard exceeded my expectations. Setup was quick and simple."
+311,2026-10-07,Blender,5,The blender is wonderful and easy to use. My family loves it too.
+312,2026-05-30,Desk Lamp,3,Really impressed with this desk lamp. Delivery was fast and the packaging was great.
+313,2026-03-20,Smartphone,3,I bought the smartphone from a local store. The receipt was included in the package.
+314,2026-10-01,Desk Lamp,1,The desk lamp is a total disaster. Customer support was rude and unhelpful.
+315,2026-10-02,Office Chair,1,The office chair is a total disaster. I would never buy it again.
+316,2026-01-23,Office Chair,2,Very disappointed with this office chair. Customer support was rude and unhelpful.
+317,2026-05-13,Smart Watch,3,   
+318,2026-07-20,Air Fryer,5,Really impressed with this air fryer. I would happily buy it again.
+319,2026-08-01,Smart Watch,1,
+320,2026-09-24,Smartphone,3,I ordered the smartphone online last week. The package was left at the front door.
+321,2026-01-23,Monitor,2,"Very disappointed with this monitor. It is noisy and slow, really annoying."
+322,2026-05-05,Smartphone,3,The smartphone arrived on Saturday. The box was sealed when it arrived.
+323,2026-04-05,Water Bottle,2,Worst water bottle I have ever bought. I asked for a refund but nobody replied.
+324,2026-08-08,Smart Watch,5,"The smart watch is wonderful and easy to use. The battery lasts all day, which is brilliant."
+325,2026-10-02,Air Fryer,5,"Excellent air fryer, worth every penny. I use it every day and it never disappoints."
+326,2026-06-10,Backpack,5,"Excellent backpack, worth every penny. Highly satisfied with the quality."
+327,2026-06-02,Running Shoes,1,The running shoes is a total disaster. Terrible instructions and horrible build quality.
+328,2026-07-11,Running Shoes,3,I ordered the running shoes online last week. The package was left at the front door.
+329,2026-09-07,Water Bottle,2,The water bottle is a total disaster. Not worth the price at all.
+330,2026-08-19,Air Fryer,1,Worst air fryer I have ever bought. I would never buy it again.
+331,2026-09-16,Bluetooth Speaker,1,"I hate this bluetooth speaker, complete waste of money. Delivery was late and the box was damaged."
+332,2026-01-16,Keyboard,2,"Poor keyboard, I regret buying it. Not worth the price at all."
+333,2026-08-23,Coffee Maker,3,I received the coffee maker today. The delivery took five days.
+334,2026-10-06,Desk Lamp,1,"Poor desk lamp, I regret buying it. I would never buy it again."
+335,2026-08-06,Backpack,4,The box says the backpack weighs two kilograms. The delivery took five days.
+336,2026-02-14,Bluetooth Speaker,4,"Excellent bluetooth speaker, worth every penny. Setup was quick and simple."
+337,2026-08-08,Smartphone,2,This smartphone stopped working after two days. The battery drains far too fast.
+338,2026-10-03,Headphones,4,"Excellent headphones, worth every penny. I use it every day and it never disappoints."
+339,2026-03-11,Air Fryer,5,I am so happy with my new air fryer. Setup was quick and simple.
+340,2026-03-09,Desk Lamp,2,I bought the desk lamp from a local store. The delivery took five days.
+341,2026-05-18,Air Fryer,4,"Fantastic quality, this air fryer exceeded my expectations. I use it every day and it never disappoints."
+342,2026-05-23,Keyboard,2,"Poor keyboard, I regret buying it. Customer support was rude and unhelpful."
+343,2026-02-17,Office Chair,3,
+344,2026-04-19,Monitor,2,"I hate this monitor, complete waste of money. Customer support was rude and unhelpful."
+345,2026-06-25,Backpack,1,"Awful quality, the backpack feels cheap and flimsy. I asked for a refund but nobody replied."
+346,2026-03-22,Desk Lamp,3,The desk lamp arrived on Thursday. The delivery took five days.
+347,2026-05-21,Laptop,3,The laptop is a total disaster. The battery drains far too fast.
+348,2026-06-06,Backpack,5,I am so happy with my new backpack. Customer support was friendly and very helpful.
+349,2026-09-02,Desk Lamp,2,
+350,2026-03-03,Running Shoes,4,"Excellent running shoes, worth every penny. I would happily buy it again."
+351,2026-02-22,Keyboard,3,The keyboard comes in a black box with a user manual. The receipt was included in the package.
+352,2026-03-15,Backpack,5,I am so happy with my new backpack. It looks beautiful and feels solid.
+353,2026-03-19,Running Shoes,4,I absolutely love this running shoes. Everything works smoothly and the design is lovely.
+354,2026-07-16,Running Shoes,3,The running shoes was delivered by courier on Monday. The warranty lasts one year.
+355,2026-05-26,Keyboard,5,"Fantastic quality, this keyboard exceeded my expectations. It looks beautiful and feels solid."
+356,2026-07-20,Air Fryer,3,The air fryer arrived on Friday. It was shipped from the central warehouse.
+357,2026-02-06,Laptop,5,"Excellent laptop, worth every penny. Highly satisfied with the quality."
+358,2026-03-30,Laptop,1,"I hate this laptop, complete waste of money. I asked for a refund but nobody replied."
+359,2026-01-31,Desk Lamp,3,I ordered the desk lamp online last week. The delivery took five days.
+360,2026-07-25,Keyboard,3,The box says the keyboard weighs two kilograms. It was shipped from the central warehouse.
+361,2026-04-15,Water Bottle,5,Really impressed with this water bottle. Everything works smoothly and the design is lovely.
+362,2026-02-03,Headphones,3,The box says the headphones weighs two kilograms. The box was sealed when it arrived.
+363,2026-01-29,Keyboard,5,"Excellent keyboard, worth every penny. Delivery was fast and the packaging was great."
+364,2026-09-12,Air Fryer,5,   
+365,2026-05-18,Water Bottle,3,The box says the water bottle weighs two kilograms. It was shipped from the central warehouse.
+366,2026-02-09,Smartphone,2,The smartphone is terrible. I asked for a refund but nobody replied.
+367,2026-05-11,Water Bottle,1,"I hate this water bottle, complete waste of money. Delivery was late and the box was damaged."
+368,2026-01-07,Office Chair,3,The office chair is black and has a standard warranty. The manual has twenty pages.
+369,2026-08-03,Monitor,4,"Fantastic quality, this monitor exceeded my expectations. The battery lasts all day, which is brilliant."
+370,2026-09-15,Coffee Maker,5,The coffee maker is wonderful and easy to use. My family loves it too.
+371,2026-08-27,Laptop,2,Worst laptop I have ever bought. The battery drains far too fast.
+372,2026-05-30,Desk Lamp,3,I received the desk lamp today. The box was sealed when it arrived.
+373,2026-04-11,Blender,1,"The blender broke on the first day, so annoying. The battery drains far too fast."
+374,2026-06-27,Water Bottle,1,This water bottle stopped working after two days. It looks cheap and feels fragile.
+375,2026-06-07,Air Fryer,1,The air fryer is terrible. I asked for a refund but nobody replied.
+376,2026-02-17,Water Bottle,5,"Excellent water bottle, worth every penny. The battery lasts all day, which is brilliant."
+377,2026-02-13,Coffee Maker,4,"Really impressed with this coffee maker. The battery lasts all day, which is brilliant."
+378,2026-08-11,Water Bottle,2,Worst water bottle I have ever bought.
+379,2026-06-17,Headphones,1,This headphones stopped working after two days. Setup was confusing and frustrating.
+380,2026-02-24,Blender,4,"Excellent blender, worth every penny. Customer support was friendly and very helpful."
+381,2026-08-26,Monitor,5,"Fantastic quality, this monitor exceeded my expectations. The battery lasts all day, which is brilliant."
+382,2026-01-21,Smartphone,4,This smartphone is amazing! It looks beautiful and feels solid.
+383,2026-01-26,Bluetooth Speaker,5,"Fantastic quality, this bluetooth speaker exceeded my expectations. It looks beautiful and feels solid."
+384,2026-05-08,Blender,3,Worst blender I have ever bought. Delivery was late and the box was damaged.
+385,2026-07-25,Smartphone,5,"Great smartphone, highly recommended. Customer support was friendly and very helpful."
+386,2026-04-12,Smart Watch,5,This smart watch is amazing! Everything works smoothly and the design is lovely.
+387,2026-08-25,Monitor,2,The monitor comes in a black box with a user manual. The manual has twenty pages.
+388,2026-08-07,Office Chair,4,"Perfect office chair for the price, I am delighted. The battery lasts all day, which is brilliant."
+389,2026-05-06,Coffee Maker,5,"Great coffee maker, highly recommended. Setup was quick and simple."
+390,2026-08-03,Monitor,1,The monitor is a total disaster. I would never buy it again.
+391,2026-07-03,Office Chair,5,Really impressed with this office chair. I use it every day and it never disappoints.
+392,2026-04-03,Desk Lamp,3,"Poor desk lamp, I regret buying it. I asked for a refund but nobody replied."
+393,2026-08-30,Running Shoes,4,"Excellent running shoes, worth every penny. Delivery was fast and the packaging was great."
+394,2026-05-17,Desk Lamp,3,"The desk lamp broke on the first day, so annoying. The battery drains far too fast."
+395,2026-03-30,Desk Lamp,2,The desk lamp is terrible. The battery drains far too fast.
+396,2026-03-14,Running Shoes,4,"Fantastic quality, this running shoes exceeded my expectations. My family loves it too."
+397,2026-04-30,Coffee Maker,1,"Poor coffee maker, I regret buying it. I would never buy it again."
+398,2026-06-24,Laptop,1,"Really bad experience with this laptop. It is noisy and slow, really annoying."
+399,2026-02-26,Office Chair,1,"I hate this office chair, complete waste of money. Delivery was late and the box was damaged."
+400,2026-06-22,Bluetooth Speaker,3,The bluetooth speaker is available in grey and in two sizes. The manual has twenty pages.
+401,2026-07-02,Headphones,4,"Great headphones, highly recommended. The battery lasts all day, which is brilliant."
+402,2026-01-01,Running Shoes,5,"Great running shoes, highly recommended. The battery lasts all day, which is brilliant."
+403,2026-02-23,Running Shoes,3,I bought the running shoes from a local store. The delivery took five days.
+404,2026-02-15,Headphones,3,The headphones is available in white and in two sizes. The manual has twenty pages.
+405,2026-06-29,Smart Watch,3,The smart watch is available in white and in two sizes. The receipt was included in the package.
+406,2026-07-31,Smartphone,5,I absolutely love this smartphone. Delivery was fast and the packaging was great.
+407,2026-04-26,Keyboard,1,"I hate this keyboard, complete waste of money. I would never buy it again."
+408,2026-03-29,Smartphone,5,I absolutely love this smartphone. Setup was quick and simple.
+409,2026-09-05,Headphones,2,I ordered the headphones online last week.
+410,2026-04-16,Keyboard,2,Worst keyboard I have ever bought. Terrible instructions and horrible build quality.
+411,2026-01-26,Keyboard,3,The box says the keyboard weighs two kilograms.
+412,2026-09-03,Water Bottle,5,Best water bottle I have ever bought! It looks beautiful and feels solid.
+413,2026-06-07,Laptop,5,"Excellent laptop, worth every penny. It looks beautiful and feels solid."
+414,2026-07-15,Monitor,3,The monitor was delivered by courier on Friday. It was shipped from the central warehouse.
+415,2026-02-01,Monitor,5,I absolutely love this monitor. Setup was quick and simple.
+416,2026-04-27,Air Fryer,4,This air fryer is amazing! Customer support was friendly and very helpful.
+417,2026-09-01,Bluetooth Speaker,1,The bluetooth speaker is a total disaster. I would never buy it again.
+418,2026-09-22,Coffee Maker,1,"Poor coffee maker, I regret buying it. Setup was confusing and frustrating."
+419,2026-03-27,Smart Watch,3,The smart watch is white and has a standard warranty. The package was left at the front door.
+420,2026-03-17,Desk Lamp,3,The package contains the desk lamp and a charging cable. The package was left at the front door.
+421,2026-05-22,Blender,3,The blender is available in grey and in two sizes. The manual has twenty pages.
+422,2026-03-17,Office Chair,2,The office chair is terrible. Terrible instructions and horrible build quality.
+423,2026-06-26,Running Shoes,2,Very disappointed with this running shoes. Customer support was rude and unhelpful.
+424,2026-07-26,Blender,3,I bought the blender from a local store. The receipt was included in the package.
+425,2026-09-01,Running Shoes,5,The running shoes is wonderful and easy to use. Delivery was fast and the packaging was great.
+426,2026-09-09,Office Chair,3,The office chair is available in blue and in two sizes. The delivery took five days.
+427,2026-06-14,Smart Watch,3,I ordered the smart watch online last week. The warranty lasts one year.
+428,2026-07-28,Keyboard,5,"Perfect keyboard for the price, I am delighted."
+429,2026-09-17,Desk Lamp,2,Really bad experience with this desk lamp. I asked for a refund but nobody replied.
+430,2026-05-08,Desk Lamp,5,Really impressed with this desk lamp. Everything works smoothly and the design is lovely.
+431,2026-03-05,Laptop,5,"Fantastic quality, this laptop exceeded my expectations. I use it every day and it never disappoints."
+432,2026-06-29,Coffee Maker,2,"I hate this coffee maker, complete waste of money. It is noisy and slow, really annoying."
+433,2026-04-20,Bluetooth Speaker,5,I am so happy with my new bluetooth speaker. Customer support was friendly and very helpful.
+434,2026-01-05,Smart Watch,3,The package contains the smart watch and a charging cable. The warranty lasts one year.
+435,2026-06-06,Headphones,2,Worst headphones I have ever bought. Terrible instructions and horrible build quality.
+436,2026-08-27,Air Fryer,2,"Awful quality, the air fryer feels cheap and flimsy. Not worth the price at all."
+437,2026-07-11,Water Bottle,5,"Perfect water bottle for the price, I am delighted. The battery lasts all day, which is brilliant."
+438,2026-05-22,Running Shoes,1,"The running shoes broke on the first day, so annoying. Setup was confusing and frustrating."
+439,2026-09-22,Bluetooth Speaker,2,"Awful quality, the bluetooth speaker feels cheap and flimsy. Setup was confusing and frustrating."
+440,2026-09-12,Office Chair,3,The office chair arrived on Saturday. I have not used it yet.
+441,2026-04-08,Blender,3,I bought the blender from a local store. I have not used it yet.
+442,2026-06-03,Air Fryer,5,"Excellent air fryer, worth every penny."
+443,2026-04-04,Bluetooth Speaker,3,The box says the bluetooth speaker weighs two kilograms. The package was left at the front door.
+444,2026-08-04,Office Chair,3,The office chair is available in green and in two sizes. The manual has twenty pages.
+445,2026-02-06,Backpack,3,The backpack is available in black and in two sizes. It was shipped from the central warehouse.
+446,2026-01-28,Coffee Maker,2,Really bad experience with this coffee maker. Customer support was rude and unhelpful.
+447,2026-04-03,Headphones,3,The headphones comes in a grey box with a user manual. The warranty lasts one year.
+448,2026-04-18,Monitor,3,The monitor is available in black and in two sizes. The package was left at the front door.
+449,2026-08-08,Headphones,3,The headphones is white and has a standard warranty. The package was left at the front door.
+450,2026-01-08,Monitor,5,The monitor is wonderful and easy to use. Delivery was fast and the packaging was great.
+451,2026-04-26,Desk Lamp,3,The box says the desk lamp weighs two kilograms. The warranty lasts one year.
+452,2026-02-03,Backpack,1,"Awful quality, the backpack feels cheap and flimsy. It looks cheap and feels fragile."
+453,2026-03-10,Blender,4,I received the blender today. The receipt was included in the package.
+454,2026-04-25,Office Chair,4,Best office chair I have ever bought! My family loves it too.
+455,2026-01-20,Headphones,2,This headphones stopped working after two days. Delivery was late and the box was damaged.
+456,2026-01-11,Smart Watch,5,I am so happy with my new smart watch. I would happily buy it again.
+457,2026-03-20,Smartphone,5,The smartphone is wonderful and easy to use. Highly satisfied with the quality.
+458,2026-03-12,Smart Watch,5,I absolutely love this smart watch. Setup was quick and simple.
+459,2026-02-24,Office Chair,4,This office chair is amazing! I would happily buy it again.
+460,2026-06-01,Running Shoes,2,This running shoes stopped working after two days. Setup was confusing and frustrating.
+461,2026-01-07,Water Bottle,4,Best water bottle I have ever bought! I use it every day and it never disappoints.
+462,2026-02-08,Office Chair,2,Very disappointed with this office chair. Terrible instructions and horrible build quality.
+463,2026-02-21,Smartphone,1,"Awful quality, the smartphone feels cheap and flimsy."
+464,2026-03-01,Bluetooth Speaker,3,The bluetooth speaker arrived on Saturday. It was shipped from the central warehouse.
+465,2026-07-03,Desk Lamp,4,I absolutely love this desk lamp. Delivery was fast and the packaging was great.
+466,2026-07-24,Running Shoes,3,I received the running shoes today. The manual has twenty pages.
+467,2026-01-31,Blender,4,I bought the blender from a local store. The receipt was included in the package.
+468,2026-08-13,Bluetooth Speaker,3,The bluetooth speaker comes in a grey box with a user manual. The manual has twenty pages.
+469,2026-03-08,Keyboard,5,"Fantastic quality, this keyboard exceeded my expectations. Everything works smoothly and the design is lovely."
+470,2026-01-07,Monitor,1,Very disappointed with this monitor. Not worth the price at all.
+471,2026-09-23,Smart Watch,2,Really bad experience with this smart watch. Terrible instructions and horrible build quality.
+472,2026-07-17,Air Fryer,1,"The air fryer broke on the first day, so annoying. Customer support was rude and unhelpful."
+473,2026-08-29,Bluetooth Speaker,5,Really impressed with this bluetooth speaker. Everything works smoothly and the design is lovely.
+474,2026-05-23,Bluetooth Speaker,4,The bluetooth speaker comes in a white box with a user manual. The manual has twenty pages.
+475,2026-08-18,Coffee Maker,5,Really impressed with this coffee maker.
+476,2026-02-22,Monitor,5,Best monitor I have ever bought! My family loves it too.
+477,2026-06-05,Laptop,5,Really impressed with this laptop. I would happily buy it again.
+478,2026-08-21,Water Bottle,2,The package contains the water bottle and a charging cable. The receipt was included in the package.
+479,2026-02-28,Desk Lamp,5,"Perfect desk lamp for the price, I am delighted. Everything works smoothly and the design is lovely."
+480,2026-07-11,Smart Watch,5,"Excellent smart watch, worth every penny. Delivery was fast and the packaging was great."
+481,2026-02-24,Laptop,1,"Worst laptop I have ever bought. It is noisy and slow, really annoying."
+482,2026-04-08,Coffee Maker,4,"Excellent coffee maker, worth every penny. Customer support was friendly and very helpful."
+483,2026-08-19,Smartphone,3,The smartphone is a total disaster. Delivery was late and the box was damaged.
+484,2026-08-10,Running Shoes,3,Really bad experience with this running shoes. It looks cheap and feels fragile.
+485,2026-02-23,Monitor,3,The box says the monitor weighs two kilograms. The package was left at the front door.
+486,2026-05-08,Running Shoes,5,"Perfect running shoes for the price, I am delighted. My family loves it too."
+487,2026-09-20,Backpack,4,I am so happy with my new backpack. Highly satisfied with the quality.
+488,2026-04-18,Air Fryer,4,Really impressed with this air fryer. My family loves it too.
+489,2026-04-02,Blender,1,"I hate this blender, complete waste of money."
+490,2026-08-02,Air Fryer,2,"I hate this air fryer, complete waste of money. Customer support was rude and unhelpful."
+491,2026-01-13,Office Chair,2,Really bad experience with this office chair. Setup was confusing and frustrating.
+492,2026-03-16,Laptop,5,I absolutely love this laptop. I use it every day and it never disappoints.
+493,2026-02-22,Air Fryer,4,I received the air fryer today. The warranty lasts one year.
+494,2026-05-28,Smart Watch,2,Really bad experience with this smart watch. The battery drains far too fast.
+495,2026-01-28,Laptop,1,The laptop is a total disaster. Not worth the price at all.
+496,2026-07-08,Blender,4,"Excellent blender, worth every penny. Everything works smoothly and the design is lovely."
+497,2026-02-08,Water Bottle,4,The water bottle is blue and has a standard warranty. The warranty lasts one year.
+498,2026-03-08,Headphones,5,Really impressed with this headphones. Customer support was friendly and very helpful.
+499,2026-06-15,Bluetooth Speaker,5,I am so happy with my new bluetooth speaker. Delivery was fast and the packaging was great.
+500,2026-06-12,Desk Lamp,1,"The desk lamp broke on the first day, so annoying."
+501,2026-07-26,Headphones,2,Really bad experience with this headphones. Customer support was rude and unhelpful.
+502,2026-09-29,Coffee Maker,5,"Excellent coffee maker, worth every penny."
+503,2026-05-05,Water Bottle,2,The water bottle is terrible. Customer support was rude and unhelpful.
+504,2026-05-25,Smart Watch,2,The smart watch is available in grey and in two sizes. I have not used it yet.
+505,2026-04-09,Water Bottle,4,"Fantastic quality, this water bottle exceeded my expectations. I would happily buy it again."
+506,2026-02-03,Smartphone,3,
+507,2026-08-11,Smart Watch,5,"Excellent smart watch, worth every penny."
+508,2026-01-28,Smartphone,1,Worst smartphone I have ever bought. Delivery was late and the box was damaged.
+509,2026-08-19,Blender,5,Really impressed with this blender. Customer support was friendly and very helpful.
+510,2026-02-02,Keyboard,1,
+511,2026-06-04,Running Shoes,3,The running shoes arrived on Friday. The manual has twenty pages.
+512,2026-10-01,Blender,1,"Poor blender, I regret buying it. Not worth the price at all."
+513,2026-07-11,Air Fryer,5,The air fryer is wonderful and easy to use. I would happily buy it again.
+514,2026-07-21,Laptop,3,The box says the laptop weighs two kilograms.
+515,2026-09-20,Smartphone,2,"Awful quality, the smartphone feels cheap and flimsy. The battery drains far too fast."
+516,2026-01-28,Headphones,4,"Excellent headphones, worth every penny. Everything works smoothly and the design is lovely."
+517,2026-05-09,Office Chair,3,The box says the office chair weighs two kilograms. The receipt was included in the package.
+518,2026-05-01,Air Fryer,3,"Perfect air fryer for the price, I am delighted. Highly satisfied with the quality."
+519,2026-06-06,Running Shoes,5,This running shoes is amazing! I use it every day and it never disappoints.
+520,2026-06-10,Headphones,1,"The headphones broke on the first day, so annoying. Terrible instructions and horrible build quality."
+521,2026-09-03,Coffee Maker,4,The coffee maker is wonderful and easy to use. Setup was quick and simple.
+522,2026-05-24,Backpack,2,"Awful quality, the backpack feels cheap and flimsy. It is noisy and slow, really annoying."
+523,2026-01-10,Headphones,3,The box says the headphones weighs two kilograms. The warranty lasts one year.
+524,2026-10-06,Smart Watch,4,The smart watch arrived on Tuesday. I have not used it yet.
+525,2026-05-29,Water Bottle,3,The water bottle was delivered by courier on Tuesday. The package was left at the front door.
+526,2026-03-26,Water Bottle,5,Really impressed with this water bottle. Customer support was friendly and very helpful.
+527,2026-03-16,Headphones,3,The headphones was delivered by courier on Friday. The package was left at the front door.
+528,2026-07-09,Monitor,1,"I hate this monitor, complete waste of money. Delivery was late and the box was damaged."
+529,2026-08-21,Smart Watch,4,"Excellent smart watch, worth every penny. I would happily buy it again."
+530,2026-05-15,Laptop,4,The laptop is available in green and in two sizes. The manual has twenty pages.
+531,2026-02-09,Running Shoes,2,Worst running shoes I have ever bought. Not worth the price at all.
+532,2026-01-04,Keyboard,1,This keyboard stopped working after two days. I would never buy it again.
+533,2026-03-18,Headphones,1,"Poor headphones, I regret buying it. It looks cheap and feels fragile."
+534,2026-09-04,Backpack,4,"Perfect backpack for the price, I am delighted. Customer support was friendly and very helpful."
+535,2026-03-07,Monitor,1,This monitor stopped working after two days. Terrible instructions and horrible build quality.
+536,2026-05-13,Headphones,1,Worst headphones I have ever bought.
+537,2026-02-13,Water Bottle,2,I bought the water bottle from a local store. The delivery took five days.
+538,2026-04-04,Running Shoes,5,Best running shoes I have ever bought! Highly satisfied with the quality.
+539,2026-02-05,Water Bottle,2,"Awful quality, the water bottle feels cheap and flimsy. It looks cheap and feels fragile."
+540,2026-03-18,Keyboard,5,"Great keyboard, highly recommended. Customer support was friendly and very helpful."
+541,2026-02-17,Headphones,2,"Poor headphones, I regret buying it. Terrible instructions and horrible build quality."
+542,2026-08-04,Headphones,2,"The headphones broke on the first day, so annoying. I would never buy it again."
+543,2026-02-20,Laptop,5,"Really impressed with this laptop. The battery lasts all day, which is brilliant."
+544,2026-10-06,Blender,3,"Poor blender, I regret buying it. The battery drains far too fast."
+545,2026-04-16,Coffee Maker,5,
+546,2026-05-14,Backpack,1,The backpack is a total disaster. I asked for a refund but nobody replied.
+547,2026-07-31,Keyboard,3,The keyboard is grey and has a standard warranty. The box was sealed when it arrived.
+548,2026-06-07,Water Bottle,1,"Poor water bottle, I regret buying it. It looks cheap and feels fragile."
+549,2026-08-17,Desk Lamp,2,The desk lamp is a total disaster. It looks cheap and feels fragile.
+550,2026-01-27,Headphones,3,I ordered the headphones online last week. The warranty lasts one year.
+551,2026-02-02,Smart Watch,4,I absolutely love this smart watch. Customer support was friendly and very helpful.
+552,2026-09-24,Backpack,5,This backpack is amazing! Everything works smoothly and the design is lovely.
+553,2026-09-23,Running Shoes,5,I absolutely love this running shoes. It looks beautiful and feels solid.
+554,2026-01-19,Laptop,5,"Perfect laptop for the price, I am delighted. I would happily buy it again."
+555,2026-07-22,Smart Watch,5,
+556,2026-06-28,Coffee Maker,4,Really impressed with this coffee maker. Delivery was fast and the packaging was great.
+557,2026-01-03,Bluetooth Speaker,5,I am so happy with my new bluetooth speaker. I use it every day and it never disappoints.
+558,2026-03-01,Keyboard,5,Really impressed with this keyboard. Customer support was friendly and very helpful.
+559,2026-05-05,Blender,3,The box says the blender weighs two kilograms. It was shipped from the central warehouse.
+560,2026-02-04,Desk Lamp,2,The desk lamp was delivered by courier on Monday. The receipt was included in the package.
+561,2026-09-22,Desk Lamp,4,"Excellent desk lamp, worth every penny."
+562,2026-06-25,Air Fryer,1,"Awful quality, the air fryer feels cheap and flimsy. The battery drains far too fast."
+563,2026-04-08,Office Chair,5,"Great office chair, highly recommended. Highly satisfied with the quality."
+564,2026-05-08,Coffee Maker,2,This coffee maker stopped working after two days. The battery drains far too fast.
+565,2026-09-10,Backpack,3,The backpack comes in a green box with a user manual. The manual has twenty pages.
+566,2026-05-21,Desk Lamp,2,Really bad experience with this desk lamp. Delivery was late and the box was damaged.
+567,2026-08-05,Desk Lamp,1,Really bad experience with this desk lamp. Setup was confusing and frustrating.
+568,2026-03-03,Water Bottle,1,The water bottle is terrible. I would never buy it again.
+569,2026-06-16,Monitor,1,"I hate this monitor, complete waste of money. Delivery was late and the box was damaged."
+570,2026-06-25,Bluetooth Speaker,5,I am so happy with my new bluetooth speaker. It looks beautiful and feels solid.
+571,2026-05-24,Monitor,5,The monitor is wonderful and easy to use. I use it every day and it never disappoints.
+572,2026-05-01,Running Shoes,2,Worst running shoes I have ever bought. Terrible instructions and horrible build quality.
+573,2026-01-05,Bluetooth Speaker,1,The bluetooth speaker is a total disaster. The battery drains far too fast.
+574,2026-06-03,Monitor,5,"Great monitor, highly recommended."
+575,2026-05-11,Bluetooth Speaker,5,"Perfect bluetooth speaker for the price, I am delighted. Delivery was fast and the packaging was great."
+576,2026-05-12,Smart Watch,2,"Very disappointed with this smart watch. It is noisy and slow, really annoying."
+577,2026-10-03,Keyboard,4,This keyboard is amazing! My family loves it too.
+578,2026-08-17,Desk Lamp,5,I am so happy with my new desk lamp. My family loves it too.
+579,2026-06-22,Keyboard,3,The keyboard is white and has a standard warranty. It was shipped from the central warehouse.
+580,2026-04-27,Running Shoes,2,"The running shoes broke on the first day, so annoying. Not worth the price at all."
+581,2026-07-05,Smart Watch,5,I am so happy with my new smart watch. Setup was quick and simple.
+582,2026-05-09,Water Bottle,1,"Poor water bottle, I regret buying it. Not worth the price at all."
+583,2026-08-31,Air Fryer,3,I ordered the air fryer online last week. The warranty lasts one year.
+584,2026-03-21,Laptop,2,The laptop is a total disaster. I would never buy it again.
+585,2026-03-06,Office Chair,5,The office chair is wonderful and easy to use. Setup was quick and simple.
+586,2026-08-28,Bluetooth Speaker,5,"Great bluetooth speaker, highly recommended. Delivery was fast and the packaging was great."
+587,2026-08-22,Water Bottle,3,I received the water bottle today.
+588,2026-06-27,Smart Watch,1,"The smart watch broke on the first day, so annoying. Not worth the price at all."
+589,2026-01-06,Coffee Maker,1,"Very disappointed with this coffee maker. It is noisy and slow, really annoying."
+590,2026-09-09,Bluetooth Speaker,5,"Great bluetooth speaker, highly recommended. My family loves it too."
+591,2026-01-04,Monitor,4,I received the monitor today. The delivery took five days.
+592,2026-07-19,Coffee Maker,1,The coffee maker is a total disaster. I would never buy it again.
+593,2026-05-20,Coffee Maker,3,I received the coffee maker today. The manual has twenty pages.
+594,2026-02-26,Air Fryer,5,Really impressed with this air fryer. Setup was quick and simple.
+595,2026-03-19,Running Shoes,2,"Poor running shoes, I regret buying it. Setup was confusing and frustrating."
+596,2026-08-13,Water Bottle,3,I absolutely love this water bottle. It looks beautiful and feels solid.
+597,2026-09-13,Coffee Maker,1,Very disappointed with this coffee maker. It looks cheap and feels fragile.
+598,2026-07-20,Monitor,3,
+599,2026-03-04,Monitor,4,"Great monitor, highly recommended. I use it every day and it never disappoints."
+600,2026-01-18,Air Fryer,4,The package contains the air fryer and a charging cable. I have not used it yet.
+601,2026-06-09,Air Fryer,4,This air fryer is amazing! I would happily buy it again.
+602,2026-04-12,Headphones,3,The headphones arrived on Wednesday.
+603,2026-05-22,Laptop,5,"Excellent laptop, worth every penny. Customer support was friendly and very helpful."
+604,2026-03-21,Keyboard,3,This keyboard stopped working after two days. Delivery was late and the box was damaged.
+605,2026-01-31,Smartphone,5,"Excellent smartphone, worth every penny. It looks beautiful and feels solid."
+606,2026-06-27,Smart Watch,4,"Great smart watch, highly recommended. I would happily buy it again."
+607,2026-01-21,Monitor,3,The package contains the monitor and a charging cable. The delivery took five days.
+608,2026-10-06,Monitor,1,Really bad experience with this monitor. Setup was confusing and frustrating.
+609,2026-09-29,Air Fryer,4,Best air fryer I have ever bought! Setup was quick and simple.
+610,2026-04-05,Blender,5,I am so happy with my new blender. I would happily buy it again.
+611,2026-07-18,Running Shoes,3,The running shoes is available in green and in two sizes. The warranty lasts one year.
+612,2026-06-14,Smart Watch,5,Best smart watch I have ever bought! I would happily buy it again.
+613,2026-04-14,Water Bottle,4,This water bottle is amazing! Delivery was fast and the packaging was great.
+614,2026-05-12,Coffee Maker,5,This coffee maker is amazing! Delivery was fast and the packaging was great.
+615,2026-02-10,Coffee Maker,5,"Perfect coffee maker for the price, I am delighted. Customer support was friendly and very helpful."
+616,2026-01-30,Smart Watch,2,The smart watch is terrible. I asked for a refund but nobody replied.
+617,2026-09-23,Blender,4,The box says the blender weighs two kilograms. The delivery took five days.
+618,2026-04-02,Air Fryer,5,"Excellent air fryer, worth every penny. I would happily buy it again."
+619,2026-08-07,Water Bottle,2,The water bottle is a total disaster. Customer support was rude and unhelpful.
+620,2026-08-15,Headphones,3,The headphones comes in a green box with a user manual.
+621,2026-08-09,Office Chair,2,The office chair is available in blue and in two sizes.
+622,2026-05-11,Backpack,3,The backpack is grey and has a standard warranty. The warranty lasts one year.
+623,2026-09-23,Monitor,5,"Best monitor I have ever bought! The battery lasts all day, which is brilliant."
+624,2026-01-12,Office Chair,5,I am so happy with my new office chair. Delivery was fast and the packaging was great.
+625,2026-01-20,Air Fryer,3,I received the air fryer today.
+626,2026-06-03,Headphones,1,Worst headphones I have ever bought. Setup was confusing and frustrating.
+627,2026-03-30,Keyboard,4,"Perfect keyboard for the price, I am delighted. I use it every day and it never disappoints."
+628,2026-07-15,Office Chair,2,"The office chair broke on the first day, so annoying. Customer support was rude and unhelpful."
+629,2026-03-03,Laptop,4,"Fantastic quality, this laptop exceeded my expectations. My family loves it too."
+630,2026-09-26,Coffee Maker,3,The coffee maker is grey and has a standard warranty. The delivery took five days.
+631,2026-07-21,Water Bottle,5,"Perfect water bottle for the price, I am delighted. It looks beautiful and feels solid."
+632,2026-03-17,Desk Lamp,3,The desk lamp is blue and has a standard warranty.
+633,2026-07-24,Smartphone,4,Best smartphone I have ever bought! Everything works smoothly and the design is lovely.
+634,2026-04-11,Desk Lamp,1,Worst desk lamp I have ever bought. It looks cheap and feels fragile.
+635,2026-02-15,Air Fryer,1,Really bad experience with this air fryer. The battery drains far too fast.
+636,2026-01-13,Keyboard,5,The keyboard is wonderful and easy to use. My family loves it too.
+637,2026-04-30,Headphones,3,The headphones is available in black and in two sizes. The receipt was included in the package.
+638,2026-03-17,Backpack,5,"Great backpack, highly recommended. Customer support was friendly and very helpful."
+639,2026-01-12,Bluetooth Speaker,3,I received the bluetooth speaker today. The delivery took five days.
+640,2026-03-14,Air Fryer,5,Really impressed with this air fryer. I use it every day and it never disappoints.
+641,2026-03-29,Smart Watch,2,The smart watch is terrible. Not worth the price at all.
+642,2026-05-19,Coffee Maker,5,"Perfect coffee maker for the price, I am delighted. Setup was quick and simple."
+643,2026-07-14,Office Chair,1,"I hate this office chair, complete waste of money. Customer support was rude and unhelpful."
+644,2026-04-12,Air Fryer,1,Very disappointed with this air fryer. I asked for a refund but nobody replied.
+645,2026-07-21,Monitor,1,Really bad experience with this monitor. Delivery was late and the box was damaged.
+646,2026-09-14,Laptop,1,"I hate this laptop, complete waste of money."
+647,2026-04-26,Laptop,4,"I am so happy with my new laptop. The battery lasts all day, which is brilliant."
+648,2026-04-27,Office Chair,5,The office chair is wonderful and easy to use.
+649,2026-03-09,Running Shoes,3,"Great running shoes, highly recommended. The battery lasts all day, which is brilliant."
+650,2026-09-26,Headphones,4,"Perfect headphones for the price, I am delighted. I would happily buy it again."
+651,2026-03-02,Keyboard,3,The keyboard comes in a red box with a user manual. The package was left at the front door.
+652,2026-05-21,Bluetooth Speaker,4,"Great bluetooth speaker, highly recommended. Delivery was fast and the packaging was great."
+653,2026-04-29,Coffee Maker,5,This coffee maker is amazing! It looks beautiful and feels solid.
+654,2026-08-29,Coffee Maker,1,The coffee maker is terrible. I asked for a refund but nobody replied.
+655,2026-01-17,Backpack,1,Worst backpack I have ever bought. Not worth the price at all.
+656,2026-02-03,Laptop,5,"I am so happy with my new laptop. The battery lasts all day, which is brilliant."
+657,2026-01-22,Monitor,4,"Perfect monitor for the price, I am delighted. Highly satisfied with the quality."
+658,2026-09-26,Bluetooth Speaker,1,The bluetooth speaker is a total disaster. I asked for a refund but nobody replied.
+659,2026-05-06,Air Fryer,1,The air fryer is terrible. I would never buy it again.
+660,2026-08-14,Keyboard,1,The keyboard is terrible. I would never buy it again.
+661,2026-09-22,Blender,5,I am so happy with my new blender. Highly satisfied with the quality.
+662,2026-10-07,Monitor,4,The monitor was delivered by courier on Monday. The manual has twenty pages.
+663,2026-04-14,Keyboard,5,"Fantastic quality, this keyboard exceeded my expectations. Highly satisfied with the quality."
+664,2026-03-05,Smartphone,3,I received the smartphone today. The box was sealed when it arrived.
+665,2026-09-19,Air Fryer,5,Best air fryer I have ever bought!
+666,2026-03-18,Headphones,1,The headphones is a total disaster. I would never buy it again.
+667,2026-08-17,Headphones,5,"Great headphones, highly recommended. Delivery was fast and the packaging was great."
+668,2026-01-07,Headphones,3,This headphones is amazing! It looks beautiful and feels solid.
+669,2026-09-01,Bluetooth Speaker,2,"Poor bluetooth speaker, I regret buying it. I would never buy it again."
+670,2026-04-17,Monitor,2,Very disappointed with this monitor. Terrible instructions and horrible build quality.
+671,2026-06-02,Headphones,5,I absolutely love this headphones.
+672,2026-04-01,Smartphone,5,I absolutely love this smartphone. Customer support was friendly and very helpful.
+673,2026-07-14,Air Fryer,2,The air fryer is blue and has a standard warranty. The box was sealed when it arrived.
+674,2026-05-21,Desk Lamp,3,I bought the desk lamp from a local store.
+675,2026-09-28,Keyboard,4,Really impressed with this keyboard. I use it every day and it never disappoints.
+676,2026-07-01,Monitor,3,The monitor is blue and has a standard warranty. It was shipped from the central warehouse.
+677,2026-04-03,Running Shoes,3,The running shoes is grey and has a standard warranty. The receipt was included in the package.
+678,2026-03-02,Coffee Maker,3,I received the coffee maker today. The warranty lasts one year.
+679,2026-04-19,Coffee Maker,1,"The coffee maker broke on the first day, so annoying. Not worth the price at all."
+680,2026-06-15,Coffee Maker,4,I am so happy with my new coffee maker. Setup was quick and simple.
+681,2026-03-31,Smartphone,3,The smartphone is available in red and in two sizes. The box was sealed when it arrived.
+682,2026-09-04,Bluetooth Speaker,5,"Fantastic quality, this bluetooth speaker exceeded my expectations."
+683,2026-09-24,Monitor,5,Really impressed with this monitor. My family loves it too.
+684,2026-07-01,Air Fryer,5,"Fantastic quality, this air fryer exceeded my expectations. I would happily buy it again."
+685,2026-03-26,Headphones,5,I am so happy with my new headphones. Delivery was fast and the packaging was great.
+686,2026-01-17,Keyboard,1,Worst keyboard I have ever bought. Terrible instructions and horrible build quality.
+687,2026-03-31,Smartphone,5,Best smartphone I have ever bought! I use it every day and it never disappoints.
+688,2026-09-05,Desk Lamp,4,I absolutely love this desk lamp. I use it every day and it never disappoints.
+689,2026-06-17,Headphones,2,The package contains the headphones and a charging cable. The box was sealed when it arrived.
+690,2026-08-24,Bluetooth Speaker,4,This bluetooth speaker is amazing! I would happily buy it again.
+691,2026-02-14,Bluetooth Speaker,5,Really impressed with this bluetooth speaker. Customer support was friendly and very helpful.
+692,2026-06-09,Office Chair,5,I absolutely love this office chair. Customer support was friendly and very helpful.
+693,2026-08-14,Coffee Maker,1,"I hate this coffee maker, complete waste of money. The battery drains far too fast."
+694,2026-02-22,Blender,1,Worst blender I have ever bought. It looks cheap and feels fragile.
+695,2026-03-29,Backpack,5,Really impressed with this backpack. My family loves it too.
+696,2026-01-26,Running Shoes,5,"Fantastic quality, this running shoes exceeded my expectations. I would happily buy it again."
+697,2026-08-17,Laptop,5,"This laptop is amazing! The battery lasts all day, which is brilliant."
+698,2026-08-27,Blender,2,"I hate this blender, complete waste of money. The battery drains far too fast."
+699,2026-08-27,Smartphone,1,"Poor smartphone, I regret buying it. Customer support was rude and unhelpful."
+700,2026-06-19,Coffee Maker,1,Worst coffee maker I have ever bought. Terrible instructions and horrible build quality.
+701,2026-09-03,Office Chair,3,The office chair is available in grey and in two sizes. The receipt was included in the package.
+702,2026-02-24,Headphones,2,"Awful quality, the headphones feels cheap and flimsy. I asked for a refund but nobody replied."
+703,2026-05-05,Smart Watch,5,This smart watch is amazing! Setup was quick and simple.
+704,2026-08-11,Monitor,1,The monitor is a total disaster. Customer support was rude and unhelpful.
+705,2026-09-07,Backpack,1,Really bad experience with this backpack. The battery drains far too fast.
+706,2026-07-27,Running Shoes,5,Best running shoes I have ever bought! My family loves it too.
+707,2026-04-22,Smartphone,5,"Perfect smartphone for the price, I am delighted. The battery lasts all day, which is brilliant."
+708,2026-05-30,Office Chair,4,The office chair is white and has a standard warranty. The delivery took five days.
+709,2026-06-05,Running Shoes,5,Best running shoes I have ever bought! I use it every day and it never disappoints.
+710,2026-09-19,Office Chair,2,I bought the office chair from a local store. The box was sealed when it arrived.
+711,2026-07-03,Headphones,5,
+712,2026-07-15,Blender,5,I absolutely love this blender. I use it every day and it never disappoints.
+713,2026-07-16,Keyboard,4,Really impressed with this keyboard. I use it every day and it never disappoints.
+714,2026-02-06,Backpack,3,I bought the backpack from a local store. The package was left at the front door.
+715,2026-08-01,Headphones,1,"Poor headphones, I regret buying it."
+716,2026-08-19,Office Chair,3,The office chair is red and has a standard warranty. I have not used it yet.
+717,2026-05-02,Coffee Maker,5,"Great coffee maker, highly recommended. The battery lasts all day, which is brilliant."
+718,2026-07-08,Blender,2,The blender is a total disaster. I would never buy it again.
+719,2026-02-10,Monitor,4,This monitor is amazing! It looks beautiful and feels solid.
+720,2026-02-09,Running Shoes,1,Very disappointed with this running shoes. The battery drains far too fast.
+721,2026-08-29,Water Bottle,2,"The water bottle broke on the first day, so annoying. Setup was confusing and frustrating."
+722,2026-05-31,Office Chair,2,"Poor office chair, I regret buying it. Terrible instructions and horrible build quality."
+723,2026-08-31,Laptop,4,"Perfect laptop for the price, I am delighted. Setup was quick and simple."
+724,2026-09-06,Running Shoes,3,The running shoes is terrible.
+725,2026-05-12,Water Bottle,5,This water bottle is amazing! Setup was quick and simple.
+726,2026-07-09,Smartphone,4,"Perfect smartphone for the price, I am delighted. It looks beautiful and feels solid."
+727,2026-02-13,Blender,3,The package contains the blender and a charging cable. The receipt was included in the package.
+728,2026-08-14,Running Shoes,4,The running shoes comes in a grey box with a user manual. The receipt was included in the package.
+729,2026-03-01,Headphones,2,This headphones stopped working after two days. Terrible instructions and horrible build quality.
+730,2026-07-19,Monitor,5,The monitor is wonderful and easy to use. Highly satisfied with the quality.
+731,2026-09-29,Headphones,1,Really bad experience with this headphones. Not worth the price at all.
+732,2026-05-20,Laptop,2,Very disappointed with this laptop. I would never buy it again.
+733,2026-05-04,Blender,4,This blender is amazing! Setup was quick and simple.
+734,2026-01-06,Running Shoes,1,This running shoes stopped working after two days. I would never buy it again.
+735,2026-06-29,Bluetooth Speaker,1,Very disappointed with this bluetooth speaker. Delivery was late and the box was damaged.
+736,2026-04-22,Blender,5,I am so happy with my new blender. I use it every day and it never disappoints.
+737,2026-04-05,Smart Watch,3,I ordered the smart watch online last week. The manual has twenty pages.
+738,2026-05-22,Air Fryer,3,The air fryer comes in a black box with a user manual. It was shipped from the central warehouse.
+739,2026-07-15,Air Fryer,3,The air fryer is available in blue and in two sizes. It was shipped from the central warehouse.
+740,2026-04-13,Laptop,5,I am so happy with my new laptop. Setup was quick and simple.
+741,2026-02-24,Headphones,1,"Poor headphones, I regret buying it. Customer support was rude and unhelpful."
+742,2026-08-17,Air Fryer,3,I received the air fryer today. The manual has twenty pages.
+743,2026-03-19,Monitor,5,"Great monitor, highly recommended."
+744,2026-07-26,Office Chair,1,The office chair is a total disaster. Terrible instructions and horrible build quality.
+745,2026-09-04,Desk Lamp,3,I ordered the desk lamp online last week.
+746,2026-02-16,Water Bottle,4,"Fantastic quality, this water bottle exceeded my expectations. My family loves it too."
+747,2026-01-21,Bluetooth Speaker,4,"Fantastic quality, this bluetooth speaker exceeded my expectations. Customer support was friendly and very helpful."
+748,2026-09-07,Smart Watch,3,The package contains the smart watch and a charging cable. It was shipped from the central warehouse.
+749,2026-05-03,Smart Watch,5,Best smart watch I have ever bought! I use it every day and it never disappoints.
+750,2026-01-09,Smartphone,1,Really bad experience with this smartphone.
+751,2026-08-23,Laptop,5,"Fantastic quality, this laptop exceeded my expectations. Delivery was fast and the packaging was great."
+752,2026-03-14,Bluetooth Speaker,4,The box says the bluetooth speaker weighs two kilograms. The package was left at the front door.
+753,2026-03-30,Laptop,1,"Poor laptop, I regret buying it. Terrible instructions and horrible build quality."
+754,2026-02-24,Office Chair,1,"Awful quality, the office chair feels cheap and flimsy. Customer support was rude and unhelpful."
+755,2026-07-25,Running Shoes,5,"Perfect running shoes for the price, I am delighted. I use it every day and it never disappoints."
+756,2026-06-21,Smart Watch,5,"Perfect smart watch for the price, I am delighted. I would happily buy it again."
+757,2026-05-05,Blender,5,"Great blender, highly recommended. The battery lasts all day, which is brilliant."
+758,2026-03-22,Laptop,4,The laptop comes in a red box with a user manual. The manual has twenty pages.
+759,2026-05-26,Monitor,5,This monitor is amazing! Delivery was fast and the packaging was great.
+760,2026-07-30,Desk Lamp,5,Best desk lamp I have ever bought! It looks beautiful and feels solid.
+761,2026-02-15,Headphones,5,"Perfect headphones for the price, I am delighted. Delivery was fast and the packaging was great."
+762,2026-09-29,Desk Lamp,1,"Awful quality, the desk lamp feels cheap and flimsy. I asked for a refund but nobody replied."
+763,2026-05-22,Running Shoes,3,The running shoes is available in green and in two sizes.
+764,2026-01-23,Smartphone,4,"Great smartphone, highly recommended."
+765,2026-08-21,Backpack,5,I am so happy with my new backpack. I use it every day and it never disappoints.
+766,2026-02-06,Air Fryer,5,I absolutely love this air fryer. I would happily buy it again.
+767,2026-04-28,Air Fryer,3,The air fryer was delivered by courier on Saturday. The box was sealed when it arrived.
+768,2026-04-23,Backpack,3,The package contains the backpack and a charging cable. The manual has twenty pages.
+769,2026-08-21,Running Shoes,4,Best running shoes I have ever bought! Delivery was fast and the packaging was great.
+770,2026-04-14,Backpack,4,"Great backpack, highly recommended. Highly satisfied with the quality."
+771,2026-03-29,Laptop,5,"Perfect laptop for the price, I am delighted. Delivery was fast and the packaging was great."
+772,2026-04-28,Coffee Maker,4,I received the coffee maker today. The package was left at the front door.
+773,2026-08-25,Bluetooth Speaker,4,Really impressed with this bluetooth speaker. Highly satisfied with the quality.
+774,2026-03-18,Air Fryer,5,The air fryer is wonderful and easy to use. I use it every day and it never disappoints.
+775,2026-09-16,Office Chair,2,The office chair arrived on Monday. I have not used it yet.
+776,2026-05-04,Water Bottle,4,The water bottle is wonderful and easy to use. Highly satisfied with the quality.
+777,2026-02-16,Desk Lamp,4,"I absolutely love this desk lamp. The battery lasts all day, which is brilliant."
+778,2026-08-21,Smart Watch,4,I am so happy with my new smart watch. It looks beautiful and feels solid.
+779,2026-01-01,Headphones,2,The headphones is a total disaster. It looks cheap and feels fragile.
+780,2026-10-05,Smartphone,3,I bought the smartphone from a local store. The box was sealed when it arrived.
+781,2026-07-06,Coffee Maker,2,Very disappointed with this coffee maker. Terrible instructions and horrible build quality.
+782,2026-02-04,Smartphone,3,I bought the smartphone from a local store. The box was sealed when it arrived.
+783,2026-09-02,Desk Lamp,3,This desk lamp stopped working after two days. It looks cheap and feels fragile.
+784,2026-05-17,Desk Lamp,2,"The desk lamp broke on the first day, so annoying. The battery drains far too fast."
+785,2026-09-27,Keyboard,1,"Awful quality, the keyboard feels cheap and flimsy. Delivery was late and the box was damaged."
+786,2026-02-03,Monitor,2,The box says the monitor weighs two kilograms.
+787,2026-02-09,Office Chair,5,Best office chair I have ever bought! Customer support was friendly and very helpful.
+788,2026-01-12,Blender,5,This blender is amazing! It looks beautiful and feels solid.
+789,2026-01-11,Smart Watch,5,Really impressed with this smart watch. It looks beautiful and feels solid.
+790,2026-06-25,Smartphone,4,I absolutely love this smartphone. I use it every day and it never disappoints.
+791,2026-08-16,Desk Lamp,2,"I hate this desk lamp, complete waste of money. It is noisy and slow, really annoying."
+792,2026-05-28,Running Shoes,1,Worst running shoes I have ever bought. Setup was confusing and frustrating.
+793,2026-10-02,Laptop,3,The laptop comes in a red box with a user manual. The box was sealed when it arrived.
+794,2026-08-14,Headphones,5,"Great headphones, highly recommended. It looks beautiful and feels solid."
+795,2026-03-17,Headphones,4,
+796,2026-03-16,Water Bottle,5,"Great water bottle, highly recommended. I would happily buy it again."
+797,2026-06-19,Office Chair,3,The office chair is available in red and in two sizes. The package was left at the front door.
+798,2026-08-15,Blender,3,"Poor blender, I regret buying it. Setup was confusing and frustrating."
+799,2026-07-25,Smartphone,5,Best smartphone I have ever bought! Delivery was fast and the packaging was great.
+800,2026-09-27,Coffee Maker,1,"Poor coffee maker, I regret buying it. I asked for a refund but nobody replied."
+801,2026-02-14,Office Chair,5,I am so happy with my new office chair. I use it every day and it never disappoints.
+802,2026-07-04,Keyboard,3,The package contains the keyboard and a charging cable. The receipt was included in the package.
+803,2026-06-07,Air Fryer,5,The air fryer is wonderful and easy to use. My family loves it too.
+804,2026-08-15,Bluetooth Speaker,3,The box says the bluetooth speaker weighs two kilograms. The manual has twenty pages.
+805,2026-04-17,Desk Lamp,5,"The desk lamp is wonderful and easy to use. The battery lasts all day, which is brilliant."
+806,2026-07-29,Bluetooth Speaker,5,Really impressed with this bluetooth speaker. My family loves it too.
+807,2026-03-12,Blender,2,The blender is a total disaster. It looks cheap and feels fragile.
+808,2026-06-05,Bluetooth Speaker,5,The bluetooth speaker is wonderful and easy to use. Setup was quick and simple.
+809,2026-08-30,Air Fryer,1,"Poor air fryer, I regret buying it. The battery drains far too fast."
+810,2026-03-03,Smart Watch,5,"I am so happy with my new smart watch. The battery lasts all day, which is brilliant."
+811,2026-09-01,Monitor,3,I ordered the monitor online last week. The box was sealed when it arrived.
+812,2026-03-25,Bluetooth Speaker,3,I ordered the bluetooth speaker online last week. The box was sealed when it arrived.
+813,2026-05-20,Headphones,2,"I hate this headphones, complete waste of money. It is noisy and slow, really annoying."
+814,2026-09-21,Smart Watch,5,"Fantastic quality, this smart watch exceeded my expectations. Delivery was fast and the packaging was great."
+815,2026-06-11,Smart Watch,5,"Great smart watch, highly recommended. Customer support was friendly and very helpful."
+816,2026-06-30,Smart Watch,3,I received the smart watch today. It was shipped from the central warehouse.
+817,2026-03-25,Laptop,3,The laptop comes in a grey box with a user manual.
+818,2026-09-27,Headphones,4,Really impressed with this headphones. I use it every day and it never disappoints.
+819,2026-01-09,Air Fryer,3,The box says the air fryer weighs two kilograms. The manual has twenty pages.
+820,2026-06-25,Blender,2,"I hate this blender, complete waste of money. It looks cheap and feels fragile."
+821,2026-06-07,Blender,5,I absolutely love this blender. Customer support was friendly and very helpful.
+822,2026-09-05,Headphones,4,"This headphones is amazing! The battery lasts all day, which is brilliant."
+823,2026-08-29,Laptop,3,The package contains the laptop and a charging cable. The manual has twenty pages.
+824,2026-04-16,Blender,5,I absolutely love this blender. Customer support was friendly and very helpful.
+825,2026-05-23,Coffee Maker,1,Worst coffee maker I have ever bought.
+826,2026-02-04,Backpack,2,The backpack is available in red and in two sizes. The package was left at the front door.
+827,2026-10-03,Running Shoes,5,I absolutely love this running shoes. I would happily buy it again.
+828,2026-04-05,Air Fryer,4,This air fryer is amazing! I use it every day and it never disappoints.
+829,2026-07-28,Smartphone,3,Worst smartphone I have ever bought. I asked for a refund but nobody replied.
+830,2026-05-28,Backpack,5,This backpack is amazing! Highly satisfied with the quality.
+831,2026-06-09,Laptop,1,Very disappointed with this laptop. I asked for a refund but nobody replied.
+832,2026-02-05,Bluetooth Speaker,2,"Poor bluetooth speaker, I regret buying it. The battery drains far too fast."
+833,2026-07-22,Desk Lamp,3,The desk lamp was delivered by courier on Saturday. The box was sealed when it arrived.
+834,2026-02-22,Smart Watch,1,Very disappointed with this smart watch. Customer support was rude and unhelpful.
+835,2026-07-26,Office Chair,1,Worst office chair I have ever bought. Customer support was rude and unhelpful.
+836,2026-07-24,Bluetooth Speaker,5,The bluetooth speaker is wonderful and easy to use. Highly satisfied with the quality.
+837,2026-08-21,Smart Watch,3,"Perfect smart watch for the price, I am delighted. The battery lasts all day, which is brilliant."
+838,2026-01-28,Blender,5,Best blender I have ever bought! Highly satisfied with the quality.
+839,2026-02-19,Monitor,3,The monitor arrived on Saturday. The package was left at the front door.
+840,2026-09-09,Smart Watch,4,The box says the smart watch weighs two kilograms. The receipt was included in the package.
+841,2026-03-02,Water Bottle,1,"I hate this water bottle, complete waste of money. I would never buy it again."
+842,2026-06-05,Backpack,5,The backpack is wonderful and easy to use. Highly satisfied with the quality.
+843,2026-02-26,Headphones,3,The headphones was delivered by courier on Saturday. I have not used it yet.
+844,2026-03-22,Monitor,1,Really bad experience with this monitor.
+845,2026-05-26,Keyboard,2,"Awful quality, the keyboard feels cheap and flimsy. It is noisy and slow, really annoying."
+846,2026-01-14,Laptop,5,"Perfect laptop for the price, I am delighted. Delivery was fast and the packaging was great."
+847,2026-01-29,Smart Watch,3,The smart watch is available in blue and in two sizes. I have not used it yet.
+848,2026-06-06,Coffee Maker,1,This coffee maker stopped working after two days.
+849,2026-09-21,Headphones,5,I absolutely love this headphones. I would happily buy it again.
+850,2026-06-15,Blender,3,The blender arrived on Wednesday. The receipt was included in the package.
+851,2026-06-23,Desk Lamp,2,"Poor desk lamp, I regret buying it. Customer support was rude and unhelpful."
+852,2026-10-02,Blender,5,"Fantastic quality, this blender exceeded my expectations. The battery lasts all day, which is brilliant."
+853,2026-02-17,Blender,3,I absolutely love this blender. Setup was quick and simple.
+854,2026-09-01,Running Shoes,1,Very disappointed with this running shoes. Terrible instructions and horrible build quality.
+855,2026-10-04,Backpack,2,Very disappointed with this backpack.
+856,2026-04-03,Keyboard,5,The keyboard is wonderful and easy to use. Setup was quick and simple.
+857,2026-08-28,Smart Watch,3,The box says the smart watch weighs two kilograms. The package was left at the front door.
+858,2026-01-31,Smart Watch,4,Really impressed with this smart watch. Everything works smoothly and the design is lovely.
+859,2026-08-11,Backpack,1,"Poor backpack, I regret buying it. It looks cheap and feels fragile."
+860,2026-03-24,Bluetooth Speaker,5,This bluetooth speaker is amazing!
+861,2026-06-08,Running Shoes,5,"Excellent running shoes, worth every penny. The battery lasts all day, which is brilliant."
+862,2026-03-11,Water Bottle,2,The water bottle is a total disaster. Not worth the price at all.
+863,2026-09-06,Desk Lamp,5,I am so happy with my new desk lamp.
+864,2026-02-16,Laptop,3,I ordered the laptop online last week. The box was sealed when it arrived.
+865,2026-09-25,Bluetooth Speaker,5,"Great bluetooth speaker, highly recommended. I use it every day and it never disappoints."
+866,2026-06-10,Running Shoes,1,Really bad experience with this running shoes. Setup was confusing and frustrating.
+867,2026-04-20,Running Shoes,4,The running shoes is wonderful and easy to use. I use it every day and it never disappoints.
+868,2026-02-27,Monitor,2,I bought the monitor from a local store. It was shipped from the central warehouse.
+869,2026-07-08,Keyboard,5,Best keyboard I have ever bought!
+870,2026-05-03,Laptop,4,The laptop is black and has a standard warranty. The delivery took five days.
+871,2026-05-02,Keyboard,3,I am so happy with my new keyboard.
+872,2026-05-01,Keyboard,2,The keyboard arrived on Wednesday. I have not used it yet.
+873,2026-05-21,Bluetooth Speaker,5,"Great bluetooth speaker, highly recommended. Highly satisfied with the quality."
+874,2026-02-21,Bluetooth Speaker,4,The bluetooth speaker was delivered by courier on Wednesday. The receipt was included in the package.
+875,2026-10-08,Air Fryer,3,I received the air fryer today.
+876,2026-03-11,Monitor,2,The monitor is terrible. Delivery was late and the box was damaged.
+877,2026-03-08,Coffee Maker,5,I am so happy with my new coffee maker. My family loves it too.
+878,2026-06-17,Smart Watch,3,I bought the smart watch from a local store. The box was sealed when it arrived.
+879,2026-04-25,Coffee Maker,3,I ordered the coffee maker online last week. I have not used it yet.
+880,2026-04-12,Laptop,5,Really impressed with this laptop.
+881,2026-02-15,Bluetooth Speaker,5,"Great bluetooth speaker, highly recommended. Delivery was fast and the packaging was great."
+882,2026-08-21,Headphones,3,The headphones is grey and has a standard warranty. The manual has twenty pages.
+883,2026-09-11,Monitor,4,I ordered the monitor online last week. The warranty lasts one year.
+884,2026-08-03,Keyboard,5,"Excellent keyboard, worth every penny. Everything works smoothly and the design is lovely."
+885,2026-05-08,Desk Lamp,5,"Great desk lamp, highly recommended. Delivery was fast and the packaging was great."
+886,2026-07-23,Smart Watch,5,Best smart watch I have ever bought! Customer support was friendly and very helpful.
+887,2026-01-31,Air Fryer,2,The air fryer is a total disaster. Not worth the price at all.
+888,2026-01-24,Office Chair,4,"Excellent office chair, worth every penny. Highly satisfied with the quality."
+889,2026-01-22,Water Bottle,5,"Perfect water bottle for the price, I am delighted. The battery lasts all day, which is brilliant."
+890,2026-06-12,Blender,1,Worst blender I have ever bought. I would never buy it again.
+891,2026-05-24,Keyboard,1,Worst keyboard I have ever bought. Setup was confusing and frustrating.
+892,2026-05-16,Office Chair,3,The office chair is a total disaster. Setup was confusing and frustrating.
+893,2026-08-14,Keyboard,2,Worst keyboard I have ever bought. I asked for a refund but nobody replied.
+894,2026-08-28,Headphones,5,I absolutely love this headphones. I use it every day and it never disappoints.
+895,2026-09-10,Office Chair,1,"Poor office chair, I regret buying it. Delivery was late and the box was damaged."
+896,2026-03-28,Air Fryer,5,"Great air fryer, highly recommended. Customer support was friendly and very helpful."
+897,2026-01-03,Bluetooth Speaker,2,"Awful quality, the bluetooth speaker feels cheap and flimsy. Terrible instructions and horrible build quality."
+898,2026-06-18,Running Shoes,3,Worst running shoes I have ever bought. Not worth the price at all.
+899,2026-02-11,Smart Watch,5,"This smart watch is amazing! The battery lasts all day, which is brilliant."
+900,2026-06-18,Air Fryer,2,"Poor air fryer, I regret buying it. It is noisy and slow, really annoying."
+901,2026-03-08,Smart Watch,3,The smart watch is green and has a standard warranty. The receipt was included in the package.
+902,2026-07-15,Laptop,4,I am so happy with my new laptop. My family loves it too.
+903,2026-04-17,Blender,3,"Great blender, highly recommended. I use it every day and it never disappoints."
+904,2026-09-09,Desk Lamp,5,The desk lamp is wonderful and easy to use. Setup was quick and simple.
+905,2026-09-08,Air Fryer,3,I received the air fryer today. The package was left at the front door.
+906,2026-07-08,Keyboard,2,"Poor keyboard, I regret buying it. Setup was confusing and frustrating."
+907,2026-03-21,Keyboard,1,
+908,2026-09-02,Water Bottle,3,The box says the water bottle weighs two kilograms. The manual has twenty pages.
+909,2026-02-09,Headphones,5,I am so happy with my new headphones. I use it every day and it never disappoints.
+910,2026-05-10,Water Bottle,3,I ordered the water bottle online last week.
+911,2026-04-04,Running Shoes,5,This running shoes is amazing! I would happily buy it again.
+912,2026-08-21,Laptop,2,I ordered the laptop online last week. I have not used it yet.
+913,2026-05-13,Monitor,3,The monitor is white and has a standard warranty. It was shipped from the central warehouse.
+914,2026-09-02,Smartphone,3,   
+915,2026-07-22,Keyboard,1,"The keyboard broke on the first day, so annoying. It is noisy and slow, really annoying."
+916,2026-04-07,Smartphone,3,The smartphone comes in a black box with a user manual. The package was left at the front door.
+917,2026-10-03,Coffee Maker,3,The coffee maker was delivered by courier on Thursday. The package was left at the front door.
+918,2026-03-20,Blender,5,Best blender I have ever bought! It looks beautiful and feels solid.
+919,2026-05-31,Monitor,1,"Poor monitor, I regret buying it. It is noisy and slow, really annoying."
+920,2026-08-10,Bluetooth Speaker,1,The bluetooth speaker is a total disaster. Delivery was late and the box was damaged.
+921,2026-09-20,Bluetooth Speaker,2,The bluetooth speaker was delivered by courier on Monday.
+922,2026-06-11,Running Shoes,2,"Poor running shoes, I regret buying it. The battery drains far too fast."
+923,2026-08-12,Blender,1,"The blender is a total disaster. It is noisy and slow, really annoying."
+924,2026-06-23,Blender,5,"Excellent blender, worth every penny. Highly satisfied with the quality."
+925,2026-08-02,Bluetooth Speaker,2,The bluetooth speaker was delivered by courier on Saturday. The package was left at the front door.
+926,2026-02-14,Smart Watch,4,The smart watch is available in red and in two sizes. The receipt was included in the package.
+927,2026-09-10,Headphones,1,Worst headphones I have ever bought. The battery drains far too fast.
+928,2026-03-23,Coffee Maker,3,Really impressed with this coffee maker. Delivery was fast and the packaging was great.
+929,2026-04-27,Bluetooth Speaker,4,Really impressed with this bluetooth speaker. Delivery was fast and the packaging was great.
+930,2026-05-17,Coffee Maker,3,Best coffee maker I have ever bought! Setup was quick and simple.
+931,2026-02-26,Bluetooth Speaker,4,The box says the bluetooth speaker weighs two kilograms. The manual has twenty pages.
+932,2026-03-02,Desk Lamp,4,The desk lamp is red and has a standard warranty. The manual has twenty pages.
+933,2026-09-13,Office Chair,4,The office chair is available in grey and in two sizes. The package was left at the front door.
+934,2026-08-13,Smartphone,1,Worst smartphone I have ever bought.
+935,2026-03-29,Desk Lamp,4,The desk lamp arrived on Thursday. The warranty lasts one year.
+936,2026-09-29,Backpack,5,The backpack is wonderful and easy to use. My family loves it too.
+937,2026-09-22,Coffee Maker,1,Worst coffee maker I have ever bought. Not worth the price at all.
+938,2026-02-05,Backpack,3,The backpack arrived on Monday. The receipt was included in the package.
+939,2026-03-19,Backpack,5,The backpack is wonderful and easy to use. It looks beautiful and feels solid.
+940,2026-06-05,Laptop,3,The box says the laptop weighs two kilograms. It was shipped from the central warehouse.
+941,2026-07-26,Backpack,2,"I hate this backpack, complete waste of money. Delivery was late and the box was damaged."
+942,2026-07-27,Coffee Maker,2,Really bad experience with this coffee maker. Terrible instructions and horrible build quality.
+943,2026-03-06,Office Chair,3,I received the office chair today. The manual has twenty pages.
+944,2026-03-23,Water Bottle,1,"Awful quality, the water bottle feels cheap and flimsy. The battery drains far too fast."
+945,2026-09-16,Office Chair,5,Really impressed with this office chair. Everything works smoothly and the design is lovely.
+946,2026-03-05,Laptop,5,"Fantastic quality, this laptop exceeded my expectations. Setup was quick and simple."
+947,2026-10-01,Running Shoes,1,"The running shoes is terrible. It is noisy and slow, really annoying."
+948,2026-07-13,Coffee Maker,3,The coffee maker is available in red and in two sizes. It was shipped from the central warehouse.
+949,2026-03-17,Coffee Maker,1,Very disappointed with this coffee maker. I asked for a refund but nobody replied.
+950,2026-08-17,Bluetooth Speaker,1,The bluetooth speaker is a total disaster. Customer support was rude and unhelpful.
+951,2026-09-13,Smart Watch,5,"Really impressed with this smart watch. The battery lasts all day, which is brilliant."
+952,2026-08-23,Monitor,2,"Poor monitor, I regret buying it. Not worth the price at all."
+953,2026-03-22,Air Fryer,5,Really impressed with this air fryer. I would happily buy it again.
+954,2026-09-25,Backpack,3,I ordered the backpack online last week. I have not used it yet.
+955,2026-03-14,Backpack,5,I am so happy with my new backpack. My family loves it too.
+956,2026-09-08,Keyboard,2,The keyboard arrived on Tuesday. It was shipped from the central warehouse.
+957,2026-08-20,Water Bottle,4,"Fantastic quality, this water bottle exceeded my expectations. Customer support was friendly and very helpful."
+958,2026-09-16,Desk Lamp,4,I bought the desk lamp from a local store. The receipt was included in the package.
+959,2026-07-29,Desk Lamp,1,"Poor desk lamp, I regret buying it."
+960,2026-02-15,Office Chair,5,The office chair is wonderful and easy to use. My family loves it too.
+961,2026-04-09,Air Fryer,3,The air fryer arrived on Monday. It was shipped from the central warehouse.
+962,2026-09-15,Water Bottle,2,The water bottle is white and has a standard warranty. The delivery took five days.
+963,2026-08-16,Smartphone,2,The box says the smartphone weighs two kilograms. The package was left at the front door.
+964,2026-01-12,Water Bottle,5,"Perfect water bottle for the price, I am delighted. My family loves it too."
+965,2026-02-28,Headphones,4,The headphones is wonderful and easy to use. Delivery was fast and the packaging was great.
+966,2026-07-28,Water Bottle,3,The water bottle comes in a black box with a user manual. It was shipped from the central warehouse.
+967,2026-02-20,Laptop,1,"The laptop broke on the first day, so annoying. I asked for a refund but nobody replied."
+968,2026-05-02,Keyboard,5,"Fantastic quality, this keyboard exceeded my expectations. Setup was quick and simple."
+969,2026-07-28,Desk Lamp,3,Really bad experience with this desk lamp. Not worth the price at all.
+970,2026-02-21,Laptop,5,The laptop is wonderful and easy to use.
+971,2026-09-14,Water Bottle,5,"Great water bottle, highly recommended. Setup was quick and simple."
+972,2026-08-20,Headphones,3,"Fantastic quality, this headphones exceeded my expectations. I would happily buy it again."
+973,2026-09-04,Bluetooth Speaker,5,Best bluetooth speaker I have ever bought! Everything works smoothly and the design is lovely.
+974,2026-05-25,Blender,4,The blender is wonderful and easy to use. My family loves it too.
+975,2026-03-13,Air Fryer,5,Really impressed with this air fryer. Everything works smoothly and the design is lovely.
+976,2026-05-14,Blender,2,The blender is a total disaster. The battery drains far too fast.
+977,2026-06-18,Air Fryer,3,The air fryer was delivered by courier on Wednesday. It was shipped from the central warehouse.
+978,2026-01-05,Air Fryer,4,
+979,2026-02-09,Keyboard,2,"Really bad experience with this keyboard. It is noisy and slow, really annoying."
+980,2026-04-01,Office Chair,1,"Poor office chair, I regret buying it."
+981,2026-01-11,Desk Lamp,3,
+982,2026-04-24,Smart Watch,3,The smart watch is available in green and in two sizes. The warranty lasts one year.
+983,2026-01-04,Monitor,5,"Fantastic quality, this monitor exceeded my expectations. Delivery was fast and the packaging was great."
+984,2026-04-10,Bluetooth Speaker,4,The bluetooth speaker is wonderful and easy to use. Customer support was friendly and very helpful.
+985,2026-03-07,Running Shoes,1,"The running shoes broke on the first day, so annoying. Terrible instructions and horrible build quality."
+986,2026-01-12,Running Shoes,4,"Excellent running shoes, worth every penny. I would happily buy it again."
+987,2026-01-27,Air Fryer,3,The box says the air fryer weighs two kilograms. It was shipped from the central warehouse.
+988,2026-07-05,Backpack,3,I bought the backpack from a local store. I have not used it yet.
+989,2026-01-03,Laptop,1,This laptop stopped working after two days. Delivery was late and the box was damaged.
+990,2026-08-05,Backpack,4,This backpack is amazing! Everything works smoothly and the design is lovely.
+991,2026-02-19,Office Chair,3,The package contains the office chair and a charging cable. The warranty lasts one year.
+992,2026-08-31,Keyboard,4,I absolutely love this keyboard. Everything works smoothly and the design is lovely.
+993,2026-08-13,Backpack,5,I absolutely love this backpack. My family loves it too.
+994,2026-02-03,Smart Watch,3,The smart watch was delivered by courier on Monday. The manual has twenty pages.
+995,2026-01-29,Laptop,3,The laptop was delivered by courier on Saturday. The delivery took five days.
+996,2026-01-06,Blender,1,The blender is a total disaster. Not worth the price at all.
+997,2026-01-14,Monitor,2,The monitor is a total disaster. Terrible instructions and horrible build quality.
+998,2026-04-10,Backpack,1,"The backpack broke on the first day, so annoying. The battery drains far too fast."
+999,2026-04-06,Headphones,3,The box says the headphones weighs two kilograms. It was shipped from the central warehouse.
+1000,2026-07-03,Desk Lamp,5,I absolutely love this desk lamp. Delivery was fast and the packaging was great.
